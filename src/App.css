@@ -1,5 +1,23 @@
+:root{
+  --oliveDrabe: #114B5F;
+  --ebony: #605C4E;
+  --nyanza: #EAFFDA
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 62.5%;
+}
+
 .App {
   text-align: center;
+  background-color: var(--nyanza);
+  font-family: 'Jost', sans-serif;
 }
 
 .App-logo {
