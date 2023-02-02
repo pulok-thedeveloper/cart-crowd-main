@@ -1,3 +1,8 @@
+.nav-bar{
+    height: 12vh;
+    border-bottom: 1px solid var(--sage);
+}
+
 .logo-title{
     font-size: 4rem;
     font-weight: 600;
@@ -10,4 +15,24 @@
 
 .nav-right{
     font-size: 2rem;
+}
+
+.dropdown-menu{
+    display: none;
+    opacity: 0;
+    width: 450px;
+    background-color: var(--nyanza);
+    transition: all 0.5s;
+    border: 1px solid var(--sage);
+    z-index: 99;
+}
+
+#shop:hover .dropdown-menu, #men:hover .dropdown-menu, #women:hover .dropdown-menu{
+    display: block;
+    opacity: 1;
+}
+
+.dropdown-menu ul{
+    font-size: 1.4rem;
+    font-weight: 400;
 }

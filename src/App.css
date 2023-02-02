@@ -1,7 +1,8 @@
 :root{
   --oliveDrabe: #114B5F;
   --ebony: #605C4E;
-  --nyanza: #EAFFDA
+  --nyanza: #EAFFDA;
+  --sage: #C7C7A6;
 }
 
 *{
@@ -23,6 +24,25 @@ html{
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.hover-underline{
+  position: relative;
+  padding-bottom: 2px;
+}
+
+.hover-underline::after{
+  content: '';
+  position: absolute;
+  width: 0;
+  left: 0;
+  bottom: 0;
+  transition: all 0.5s;
+}
+
+.hover-underline:hover::after{
+  border: 1px solid black;
+  width: 100%;
 }
 
 @media (prefers-reduced-motion: no-preference) {

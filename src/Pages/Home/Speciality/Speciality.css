@@ -1,0 +1,25 @@
+.spec{
+    display: flex;
+    align-items: center;
+    margin: 0 28px;
+}
+
+.spec img{
+    width: 50px;
+    margin-right: 30px;
+}
+
+.spec-detail{
+    text-align: left;
+}
+
+.spec-detail h3{
+    font-size: 1.7rem;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.spec-detail p{
+    font-size: 1.4rem;
+    color: #72725f;
+}

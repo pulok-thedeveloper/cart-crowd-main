@@ -1,0 +1,36 @@
+.trend{
+    text-align: left;
+    background-color: #dbd9d4;
+}
+.trend h4{
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+}
+
+.trend h1{
+    font-size: 4.2rem;
+    font-weight: 600;
+    line-height: 1.3;
+    padding-right: 40%;
+}
+
+.trend a{
+    font-size: 1.6rem;
+    margin-top: 30px;
+    font-weight: 500;
+}
+
+.trend p{
+    font-size: 1.5rem;
+    margin: 20px 0;
+    color: #4e4e43;
+    padding-right: 50%;
+}
+
+.trend-right h1{
+    font-size: 3rem;
+    font-weight: 500;
+}
