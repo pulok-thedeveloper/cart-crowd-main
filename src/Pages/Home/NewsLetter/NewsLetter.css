@@ -1,0 +1,23 @@
+.news-letter{
+    /* background-color: rgba(17, 76, 95, 0.1); */
+    background-image: url(https://i.postimg.cc/W4GRH62K/bg-image-5.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.news-letter .title{
+    font-size: 3rem;
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+.news-letter .description{
+    font-size: 1.6rem;
+    color: #4e4e43;
+}
+
+.subscribe-btn{
+    background-color: var(--oliveDrabe);
+    color: var(--nyanza);
+}

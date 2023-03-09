@@ -1,35 +1,52 @@
 [
     {
-        "name": "Blazers"
+        "name": "Blazers",
+        "image": "https://i.postimg.cc/J4bnRs37/men-s-check-sales-section-row-suits-hanging-rack-jacket-department-mens-fashion-blazers-pole-1735419.jpg",
+        "description": "This is the Category Description. Use it to engage your customers, to describe products in this category and, of course, for SEO. You can use basic HTML elements such as bold, italic, link, so on."
     },
     {
-        "name": "Blouses & shirts"
+        "name": "Blouses & shirts",
+        "image": "https://i.postimg.cc/g2DfDppH/pexels-photo-1682699.jpg",
+        "description": "This is the Category Description. Use it to engage your customers, to describe products in this category and, of course, for SEO. You can use basic HTML elements such as bold, italic, link, so on."
     },
     {
-        "name": "Dresses"
+        "name": "Dresses",
+        "image": "https://i.postimg.cc/W1T4zsSG/pexels-photo-6069977.jpg",
+        "description": "This is the Category Description. Use it to engage your customers, to describe products in this category and, of course, for SEO. You can use basic HTML elements such as bold, italic, link, so on."
     },
     {
-        "name": "Jackets & Coats"
+        "name": "Jackets & Coats",
+        "image": "https://i.postimg.cc/L4J28JSK/photo-1551488831-00ddcb6c6bd3?ixlib=rb-4.0.jpg",
+        "description": "This is the Category Description. Use it to engage your customers, to describe products in this category and, of course, for SEO. You can use basic HTML elements such as bold, italic, link, so on."
     },
     {
-        "name": "Jeans"
+        "name": "Jeans",
+        "image": "https://i.postimg.cc/zvZtN25f/pexels-photo-1082528.jpg",
+        "description": "This is the Category Description. Use it to engage your customers, to describe products in this category and, of course, for SEO. You can use basic HTML elements such as bold, italic, link, so on."
     },
     {
-        "name": "Knit"
+        "name": "Knit",
+        "image": "https://i.postimg.cc/ZR2kdLmk/pexels-photo-3262937.jpg",
+        "description": "This is the Category Description. Use it to engage your customers, to describe products in this category and, of course, for SEO. You can use basic HTML elements such as bold, italic, link, so on."
     },
     {
-        "name": "Pants"
+        "name": "Pants",
+        "image": "https://i.postimg.cc/NjkwzT6T/photo-1542272604-787c3835535d?ixlib=rb-4.0.jpg",
+        "description": "This is the Category Description. Use it to engage your customers, to describe products in this category and, of course, for SEO. You can use basic HTML elements such as bold, italic, link, so on."
     },
     {
-        "name": "Skirts"
+        "name": "Skirts",
+        "image": "https://i.postimg.cc/T251H7pD/photo-1509182469511-7f0b50bfa63e?ixlib=rb-4.0.jpg",
+        "description": "This is the Category Description. Use it to engage your customers, to describe products in this category and, of course, for SEO. You can use basic HTML elements such as bold, italic, link, so on."
     },
     {
-        "name": "Suits"
+        "name": "Sweatshirts & Hoodies",
+        "image": "https://i.postimg.cc/zvKQRZpW/pexels-photo-1192335.jpg",
+        "description": "This is the Category Description. Use it to engage your customers, to describe products in this category and, of course, for SEO. You can use basic HTML elements such as bold, italic, link, so on."
     },
     {
-        "name": "Sweatshirts & Hoodies"
-    },
-    {
-        "name": "T-shirts"
+        "name": "T-shirts",
+        "image": "https://i.postimg.cc/PrbcXHCn/pexels-photo-581087.jpg",
+        "description": "This is the Category Description. Use it to engage your customers, to describe products in this category and, of course, for SEO. You can use basic HTML elements such as bold, italic, link, so on."
     }
 ]

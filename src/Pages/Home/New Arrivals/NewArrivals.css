@@ -1,0 +1,16 @@
+.new-arrival .title{
+    font-size: 4rem;
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+/* .new-arrival a{
+    font-size: 1.6rem;
+    margin-top: 30px;
+    font-weight: 500;
+} */
+
+.new-arrival .description{
+    font-size: 1.6rem;
+    color: #4e4e43;
+}

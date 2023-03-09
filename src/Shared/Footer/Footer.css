@@ -1,0 +1,20 @@
+footer{
+  background-color: var(--oliveDrabe);
+  font-size: 1.4rem;
+}
+
+.social-icons a{
+  transition: all 0.3s;
+}
+
+.social-icons a:hover{
+  background-color: #fff;
+}
+
+.social-icons a:hover .social-icon{
+  color: var(--oliveDrabe);
+}
+
+.social-icon{
+  color: #fff;
+}

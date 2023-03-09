@@ -1,0 +1,10 @@
+.best-sellers .title{
+    font-size: 4rem;
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+.best-sellers .description{
+    font-size: 1.6rem;
+    color: #4e4e43;
+}

@@ -1,0 +1,39 @@
+.search-input{
+    font-size: 3rem;
+    outline: 0;
+    border: 0;
+    border-bottom: 1px solid var(--sage);
+}
+
+.cross-btn{
+    transition: all 0.3s;
+}
+
+.cross-btn:hover{
+    color: #000;
+}
+
+.modal-wrapper{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(156, 156, 156, 0.9);
+    width: 100%;
+    height: 100%;
+}
+
+.modal-container{
+    animation: slideDown 0.2s linear;
+}
+
+@keyframes slideDown {
+    0%{
+        transform: translateY(-100%);
+    }
+    100%{
+        transform: translateY(0%);
+
+    }
+}

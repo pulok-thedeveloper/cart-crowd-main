@@ -16,7 +16,6 @@ html{
 }
 
 .App {
-  text-align: center;
   background-color: var(--nyanza);
   font-family: 'Jost', sans-serif;
 }

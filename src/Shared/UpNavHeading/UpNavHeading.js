@@ -5,7 +5,7 @@ import './UpNavHeading.css'
 const UpNavHeading = () => {
     return (
         <div>
-            <p className='up-nav-heading uppercase'>Free Shipping World wide for all orders over $199! <Link className='font-semibold' to='/'>Shop Now</Link></p>
+            <p className='up-nav-heading uppercase text-center'>Free Shipping World wide for all orders over $199! <Link className='font-semibold' to='/'>Shop Now</Link></p>
         </div>
     );
 };

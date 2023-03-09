@@ -1,0 +1,13 @@
+.last-deals{
+    background-color: rgba(17, 76, 95, 0.1);
+}
+.last-deals .title{
+    font-size: 3rem;
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+.last-deals .description{
+    font-size: 1.6rem;
+    color: #4e4e43;
+}

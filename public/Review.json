@@ -1,0 +1,44 @@
+[
+    {
+        "productId": "6404f40d76541b86f708e64f",
+        "name": "Sarah Johnson",
+        "email": "sarah.johnson@gmail.com",
+        "img": "https://i.postimg.cc/vTCLtYMr/hanna-IUikxf-NJXx-U-unsplash.jpg",
+        "review": "I was a little hesitant to make a purchase from CartCrowd at first, but I'm so glad I did. The product arrived exactly as described, and the quality was even better than I expected. The checkout process was smooth and easy, and my order arrived in just a few days. I'm definitely going to be a repeat customer!"
+    },
+    {
+        "productId": "6404f40d76541b86f708e646",
+        "name": "John Smith",
+        "email": "john.smith@gmail.com",
+        "img": "https://i.postimg.cc/g2Vq3b7h/albert-dera-ILip77-Sbm-OE-unsplash.jpg",
+        "review": "I've been shopping with CartCrowd for years now, and I can't say enough good things about them. The website is easy to use, the prices are competitive, and the products always arrive quickly and in perfect condition. I especially love their customer service - any time I've had an issue, they've been quick to respond and incredibly helpful. Highly recommend!"
+    },
+    {
+        "productId": "6404f40d76541b86f708e644",
+        "name": "David Lee",
+        "email": "david.lee@yahoo.com",
+        "img": "https://i.postimg.cc/tg9d5m0M/joseph-gonzalez-i-Fg-Rcq-Hznqg-unsplash.jpg",
+        "review": "I recently ordered a few items from CartCrowd, and unfortunately one of them arrived damaged. I reached out to their customer service team, and they were incredibly responsive and helpful. They quickly sent a replacement and even offered me a discount on my next purchase. I really appreciated the level of care they showed, and will definitely be shopping with them again."
+    },
+    {
+        "productId": "6404f40d76541b86f708e64d",
+        "name": "Emily Wilson",
+        "email": "emily.wilson@yahoo.com",
+        "img": "https://i.postimg.cc/fWPKNKXV/rafaella-mendes-diniz-g-Gr-FGy-YE-unsplash.jpg",
+        "review": "I love shopping with CartCrowd - they always have the latest trends and the best prices. Their website is really easy to use, and I appreciate the personalized product recommendations based on my browsing history. Shipping is always fast, and I've never had any issues with my orders. Highly recommend!"
+    },
+    {
+        "productId": "6404f40d76541b86f708e682",
+        "name": "James Brown",
+        "email": "james.brown@gmail.com",
+        "img": "https://i.postimg.cc/tTT30Z4d/james-barr-j-Yr-Fcbzt-IHA-unsplash.jpg",
+        "review": "I had a great experience shopping with CartCrowd. The product arrived quickly and was exactly what I was looking for. I appreciated the detailed product descriptions and customer reviews that helped me make an informed decision. The checkout process was also really straightforward, and I loved the option to track my order in real-time. I'll definitely be shopping with them again."
+    },
+    {
+        "productId": "6404f40d76541b86f708e64c",
+        "name": "Jennifer Martin",
+        "email": "jennifer.martin@outlook.com",
+        "img": "https://i.postimg.cc/vBHzQ23V/hanna-Xecd-Qprc-G6k-unsplash.jpg",
+        "review": "I had a bit of an issue with my order from CartCrowd, but their customer service team went above and beyond to help me resolve it. They were really responsive and proactive in finding a solution, and I was really impressed with their level of service. I'll definitely be recommending them to friends and family."
+    }
+]

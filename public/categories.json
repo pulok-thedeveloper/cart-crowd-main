@@ -1,50 +1,98 @@
 [
     {
-        "name": "Men"
+        "name": "Men",
+        "image": "https://i.postimg.cc/Kz7HWY5p/pexels-photo-5698854.jpg",
+        "icon": "https://i.postimg.cc/fLG11WHR/man.png",
+        "description": "This is the Category Description. Use it to engage your customers, to describe products in this category and, of course, for SEO. You can use basic HTML elements such as bold, italic, link, so on."
     },
     {
-        "name": "Women"
+        "name": "Women",
+        "image": "https://i.postimg.cc/RVpbyycm/pexels-photo-6069088.jpg",
+        "icon": "https://i.postimg.cc/SRcH4057/woman.png",
+        "description": "This is the Category Description. Use it to engage your customers, to describe products in this category and, of course, for SEO. You can use basic HTML elements such as bold, italic, link, so on."
     },
     {
-        "name": "Accessories"
+        "name": "Accessories",
+        "image": "https://i.postimg.cc/htHZPmy3/pexels-photo-322207.jpg",
+        "icon": "https://i.postimg.cc/ZKh1cRBf/hair-brush.png",
+        "description": "This is the Category Description. Use it to engage your customers, to describe products in this category and, of course, for SEO. You can use basic HTML elements such as bold, italic, link, so on."
     },
     {
-        "name": "Clothing"
+        "name": "Clothing",
+        "image": "https://i.postimg.cc/Dzr6vMb8/pexels-photo-934070.jpg",
+        "icon": "https://i.postimg.cc/vmDjBxkm/clothes-hanger.png",
+        "description": "This is the Category Description. Use it to engage your customers, to describe products in this category and, of course, for SEO. You can use basic HTML elements such as bold, italic, link, so on."
     },
     {
-        "name": "Shoes"
+        "name": "Shoes",
+        "image": "https://i.postimg.cc/ZRmf6Sh8/pexels-photo-1025996.jpg",
+        "icon": "https://i.postimg.cc/J7XfZJnD/jogging.png",
+        "description": "This is the Category Description. Use it to engage your customers, to describe products in this category and, of course, for SEO. You can use basic HTML elements such as bold, italic, link, so on."
     },
     {
-        "name": "Beauty & Personal Care"
+        "name": "Cosmeticals",
+        "image": "https://i.postimg.cc/50f36Swp/pexels-photo-7290089.jpg",
+        "icon": "https://i.postimg.cc/rpbHtF2N/cosmetics.png",
+        "description": "This is the Category Description. Use it to engage your customers, to describe products in this category and, of course, for SEO. You can use basic HTML elements such as bold, italic, link, so on."
     },
     {
-        "name": "Kitchen & Bathroom"
+        "name": "Kitchen & Bathroom",
+        "image": "https://i.postimg.cc/mDSmw5b0/pexels-photo-5824883.jpg",
+        "icon": "https://i.postimg.cc/FKnMgV3c/sink.png",
+        "description": "This is the Category Description. Use it to engage your customers, to describe products in this category and, of course, for SEO. You can use basic HTML elements such as bold, italic, link, so on."
     },
     {
-        "name": "Books"
+        "name": "Books",
+        "image": "https://i.postimg.cc/x8C3Pjpz/pexels-photo-2041540.jpg",
+        "icon": "https://i.postimg.cc/xCz4GD0D/book.png",
+        "description": "This is the Category Description. Use it to engage your customers, to describe products in this category and, of course, for SEO. You can use basic HTML elements such as bold, italic, link, so on."
     },
     {
-        "name": "Electronics"
+        "name": "Electronics",
+        "image": "https://i.postimg.cc/3JNtX1zc/pexels-photo-325153.jpg",
+        "icon": "https://i.postimg.cc/kgTzqvjZ/electronics.png",
+        "description": "This is the Category Description. Use it to engage your customers, to describe products in this category and, of course, for SEO. You can use basic HTML elements such as bold, italic, link, so on."
     },
     {
-        "name": "Furniture"
+        "name": "Furniture",
+        "image": "https://i.postimg.cc/tCszZTx0/pexels-photo-4112601.jpg",
+        "icon": "https://i.postimg.cc/kgJz0pyK/furnitures.png",
+        "description": "This is the Category Description. Use it to engage your customers, to describe products in this category and, of course, for SEO. You can use basic HTML elements such as bold, italic, link, so on."
     },
     {
-        "name": "Toys"
+        "name": "Toys",
+        "image": "https://i.postimg.cc/024ccms2/pexels-photo-12211.jpg",
+        "icon": "https://i.postimg.cc/x1gDq2d6/storage-box.png",
+        "description": "This is the Category Description. Use it to engage your customers, to describe products in this category and, of course, for SEO. You can use basic HTML elements such as bold, italic, link, so on."
     },
     {
-        "name": "Bags"
+        "name": "Bags",
+        "image": "https://i.postimg.cc/pLXn7VDG/bags_header.jpg",
+        "icon": "https://i.postimg.cc/KYzXMHkx/school-bag.png",
+        "description": "This is the Category Description. Use it to engage your customers, to describe products in this category and, of course, for SEO. You can use basic HTML elements such as bold, italic, link, so on."
     },
     {
-        "name": "Watches"
+        "name": "Watches",
+        "image": "https://i.postimg.cc/5tdpMVyh/gshock-watch-sports-watch-stopwatch-158741.jpg",
+        "icon": "https://i.postimg.cc/vZGwQBG1/wrist-watch.png",
+        "description": "This is the Category Description. Use it to engage your customers, to describe products in this category and, of course, for SEO. You can use basic HTML elements such as bold, italic, link, so on."
     },
     {
-        "name": "Glasses"
+        "name": "Glasses",
+        "image": "https://i.postimg.cc/Jz6BWwx1/pexels-photo-185769.jpg",
+        "icon": "https://i.postimg.cc/65LF1XCB/glasses.png",
+        "description": "This is the Category Description. Use it to engage your customers, to describe products in this category and, of course, for SEO. You can use basic HTML elements such as bold, italic, link, so on."
     },
     {
-        "name": "New Arrivals"
+        "name": "New Arrivals",
+        "image": "https://i.postimg.cc/nM8vszcY/pexels-photo-5864245.jpg",
+        "icon": "https://i.postimg.cc/Kzkd93DW/new-arrival.png",
+        "description": "This is the Category Description. Use it to engage your customers, to describe products in this category and, of course, for SEO. You can use basic HTML elements such as bold, italic, link, so on."
     },    
     {
-        "name": "Best Sellers"
+        "name": "Best Sellers",
+        "image": "https://i.postimg.cc/htHZPmy3/pexels-photo-322207.jpg",
+        "icon": "https://i.postimg.cc/FzXnDWRf/award.png",
+        "description": "This is the Category Description. Use it to engage your customers, to describe products in this category and, of course, for SEO. You can use basic HTML elements such as bold, italic, link, so on."
     }
 ]

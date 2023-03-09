@@ -1,85 +1,68 @@
-import React, { useEffect, useState } from 'react';
-import './Header.css';
-import { TfiAngleRight, TfiAngleLeft } from 'react-icons/tfi';
-import { BsArrowRight } from 'react-icons/bs';
-import { Link } from 'react-router-dom';
-
+import React from "react";
+import { Swiper, SwiperSlide } from "swiper/react";
+import "swiper/css";
+import "swiper/css/scrollbar";
+import { Autoplay, Pagination } from "swiper";
+import "./Header.css";
+import { Link } from "react-router-dom";
+import { BsArrowRight } from "react-icons/bs";
 const Header = () => {
-    const [slider, setSlider] = useState();
-    const [slideIndex, setSlideIndex] = useState(1);
-
-    useEffect(() => {
-        fetch('http://localhost:5000/header/slider')
-            .then(res => res.json())
-            .then(data => setSlider(data.data))
-            .catch(err => console.log(err.message))
-    }, [])
-
-    const nextSlide = () => {
-        if (slideIndex !== slider?.length) {
-            setSlideIndex(slideIndex + 1)
-        }
-        else if (slideIndex === slider?.length) {
-            setSlideIndex(1)
-        }
-    }
-
-    const prevSlide = () => {
-        if (slideIndex !== 1) {
-            setSlideIndex(slideIndex - 1)
-        }
-        else if (slideIndex === 1) {
-            setSlideIndex(slider?.length)
-        }
-    }
-
-    const moveDot = index => {
-        setSlideIndex(index)
-    }
-
-    return (
-        <div className='p-16'>
-            <div className='slide-container relative w-100'>
-
-                {
-                    slider?.map((obj, index) => {
-                        return (
-                            <div key={index} className={slideIndex === index + 1 ? `slide relative slide-content-${slideIndex} active-anim` : "slide"}>
-                                <div className='slide-left'>
-                                    <h4>{slider[slideIndex - 1]?.subtitle}</h4>
-                                    <h1>{slider[slideIndex - 1]?.title}</h1>
-                                    <Link className='flex items-center' to='/'>Shop Collection <BsArrowRight className='ml-5'/></Link>
-                                </div>
-                                <div className='slide-right'>
-                                    <img src={slider[slideIndex - 1]?.image} alt="" border="0" />
-                                </div>
-                            </div>
-                        )
-                    })
-                }
-                <button
-                    onClick={nextSlide}
-                    className={"next btn-slide"}>
-                    <TfiAngleRight />
-                </button>
-
-                <button
-                    onClick={prevSlide}
-                    className={"prev btn-slide"}>
-                    <TfiAngleLeft />
-                </button>
-
-                <div className="container-dots">
-                    {slider?.map((item, index) => (
-                        <div
-                            onClick={() => moveDot(index + 1)}
-                            className={slideIndex === index + 1 ? "dot active" : "dot"}
-                        ></div>
-                    ))}
-                </div>
+  return (
+    <div className="header-container w-full p-16">
+      <Swiper
+        centeredSlides={true}
+        autoplay={{
+          delay: 2500,
+          disableOnInteraction: false,
+        }}
+        loop={true}
+        pagination={{
+          clickable: true,
+        }}
+        modules={[Autoplay, Pagination]}
+        className="mySwiper"
+      >
+      <SwiperSlide>
+          <div className="slide slide-3 w-full h-full px-32 grid grid-cols-3 items-center" style={{ backgroundImage: `url("https://i.postimg.cc/MKB444Vj/banner-Covid.jpg")` }}>
+            <div className="text-left">
+              <h4>Innovative Electronics</h4>
+              <h1>Shop Our Extensive Electronics Collection</h1>
+              <Link className="mt-5 flex items-center gap-3" to="/shop">
+                Shop Now <BsArrowRight />
+              </Link>
             </div>
-        </div>
-    );
+          </div>
+        </SwiperSlide>
+        <SwiperSlide>
+          <div className="slide slide-2 w-full h-full px-32 grid grid-cols-2 items-center" style={{ backgroundImage: `url("https://i.ibb.co/HVRjLQ7/7046077-1528.jpg")` }}>
+            <div className="text-left">
+              <h4>Crafting Comfort</h4>
+              <h1>Discover Your Perfect Piece of Furniture</h1>
+              <Link className="mt-5 flex items-center gap-3" to="/shop">
+                Shop Now <BsArrowRight />
+              </Link>
+            </div>
+          </div>
+        </SwiperSlide>
+        <SwiperSlide>
+          <div className="slide slide-1 w-full h-full px-32 grid grid-cols-2 items-center">
+            <div className="text-left">
+              <h4>Unleash Your Style</h4>
+              <h1>Shop Our Clothing and Feel Confident in Your Style</h1>
+              <Link className="mt-5 flex items-center gap-3" to="/shop">
+                Shop Now <BsArrowRight />
+              </Link>
+            </div>
+            <div>
+              <img className="w-full" src="https://i.ibb.co/yFrTCcF/Clothing-items.png" alt="" />
+            </div>
+          </div>
+        </SwiperSlide>
+      </Swiper>
+    </div>
+  );
 };
+
+//
 
 export default Header;

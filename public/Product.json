@@ -1,0 +1,2072 @@
+[
+    {
+        "title": "Check Overshirt With Pocket Detail",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 129,
+            "discount": 14,
+            "disPrice": 112,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/sgSShf4H/Checkover_shirt.jpg"
+        ],
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [],
+        "available": 47,
+        "sold": 23,
+        "categories": [
+            "Men",
+            "Clothing",
+            "Shirts",
+            "Sweatshirts & Hoodies",
+            "T-Shirts",
+            "Best Sellers"
+        ]
+    },
+    {
+        "title": "World Wide Cup Print T-Shirt",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 29.99,
+            "discount": 21,
+            "disPrice": 23.99,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/Qxv1CK1W/world-wide-cup-print-t-shirt.jpg"
+        ],
+        "sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "Apple Red",
+            "Blue",
+            "Green",
+            "Pink",
+            "Red",
+            "Black",
+            "White"
+        ],
+        "available": 79,
+        "sold": 11,
+        "categories": [
+            "Men",
+            "Clothing",
+            "Sweatshirts & Hoodies",
+            "T-Shirts"
+        ]
+    },
+    {
+        "title": "Pouch Pocket Hoodie Yeloow",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 37.50,
+            "discount": 22,
+            "disPrice": 29.50,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/3wTGCML8/pouch-pocket-orange-hhodie.jpg"
+        ],
+        "sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [],
+        "available": 48,
+        "sold": 32,
+        "categories": [
+            "Men",
+            "Clothing",
+            "Sweatshirts & Hoodies"
+        ]
+    },
+    {
+        "title": "Ripstop Cargo Trousers With Pockets",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 69.99,
+            "discount": 29,
+            "disPrice": 49.99,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/5tSCsPGw/ripstop-cargo-trouser.jpg"
+        ],
+        "sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [],
+        "available": 30,
+        "sold": 8,
+        "categories": [
+            "Men",
+            "Clothing",
+            "Cargo Trousers"
+        ]
+    },
+    {
+        "title": "Relaxed Fit Plaid Flannel Shirt",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 34.99,
+            "discount": 0,
+            "disPrice": 34.99,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/9fNhH9Dr/portrait-handsome-single-bearded-young-man-with-serious-expression-gray-wall-with-copy-space_231208-.jpg"
+        ],
+        "sizes": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [],
+        "available": 25,
+        "sold": 5,
+        "categories": [
+            "Men",
+            "Clothing",
+            "Shirts"
+        ]
+    },
+    {
+        "title": "Quilted Bomber Jacket With Ribbed Trims",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 69.48,
+            "discount": 32,
+            "disPrice": 47.58,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/Qtzbk8HB/portrait-young-handsome-male_23-2148884392.jpg"
+        ],
+        "sizes": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [],
+        "available": 24,
+        "sold": 32,
+        "categories": [
+            "Men",
+            "Clothing",
+            "Jackets & Coats"
+        ]
+    },
+    {
+        "title": "Pouch Pocket Hoodie",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 32.40,
+            "discount": 16,
+            "disPrice": 27.40,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/PxCckFDw/man-blank-grey-black-hoodie-sweater-posing-front-white-wall_346278-1056.jpg"
+        ],
+        "sizes": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [],
+        "available": 44,
+        "sold": 18,
+        "categories": [
+            "Men",
+            "Clothing",
+            "Sweatshirts & Hoodies"
+        ]
+    },
+    {
+        "title": "Plush Bermuda Sweat Shorts",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 17.80,
+            "discount": 17,
+            "disPrice": 14.80,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/CK1rj6mQ/man-beige-jacket-shorts-streetwear-full-body_53876-125232.jpg"
+        ],
+        "sizes": [
+        ],
+        "colors": [],
+        "available": 44,
+        "sold": 18,
+        "categories": [
+            "Men",
+            "Clothing",
+            "Shorts"
+        ]
+    },
+    {
+        "title": "Oversized Denim Jacket",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 78.90,
+            "discount": 13,
+            "disPrice": 68.90,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/cJrTKtJq/portrait-handsome-confident-stylish-hipster-lambersexual-model-sexy-man-dressed-jeans-jacket-fashion.jpg"
+        ],
+        "sizes": [
+        ],
+        "colors": [],
+        "available": 20,
+        "sold": 28,
+        "categories": [
+            "Men",
+            "Clothing",
+            "Jackets & Coats"
+        ]
+    },
+    {
+        "title": "Oversize Hoodie With Zipper",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 124.00,
+            "discount": 0,
+            "disPrice": 124.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/y8Ny53cJ/teenager-with-green-jacket-skateboard_23-2148478795.jpg"
+        ],
+        "sizes": [
+        ],
+        "colors": [],
+        "available": 24,
+        "sold": 10,
+        "categories": [
+            "Men",
+            "Clothing",
+            "Jackets & Coats",
+            "Sweatshirts & Hoodies"
+        ]
+    },
+    {
+        "title": "Naruto Itachi Print T-shirt",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 23.91,
+            "discount": 26,
+            "disPrice": 17.90,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/rp4pG9Yp/naruto1.jpg",
+            "https://i.postimg.cc/9fNGz2N7/naruto5.jpg"
+        ],
+        "sizes": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [],
+        "available": 80,
+        "sold": 30,
+        "categories": [
+            "Men",
+            "Clothing",
+            "T-Shirts"
+        ]
+    },
+    {
+        "title": "Loose-fit Jeans",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 38.99,
+            "discount": 26,
+            "disPrice": 28.99,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/dt588QpJ/high-angle-boy-riding-skateboard_23-2148478688.jpg"
+        ],
+        "sizes": [
+        ],
+        "colors": [],
+        "available": 50,
+        "sold": 15,
+        "categories": [
+            "Men",
+            "Clothing",
+            "Jeans"
+        ]
+    },
+    {
+        "title": "Lightweight Zipped Bomber Jacket",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 30.99,
+            "discount": 10,
+            "disPrice": 27.99,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/vBw9Q4gt/handsome-young-black-guy-posing_144627-4291.jpg"
+        ],
+        "sizes": [
+        ],
+        "colors": [],
+        "available": 28,
+        "sold": 14,
+        "categories": [
+            "Men",
+            "Clothing",
+            "Jackets & Coats"
+        ]
+    },
+    {
+        "title": "Faux Suede Jacket With Pockets",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 89.90,
+            "discount": 34,
+            "disPrice": 59.90,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/cJwg5d9g/handsome-man-posing-while-holding-smartphone_23-2148486208.jpg"
+        ],
+        "sizes": [
+        ],
+        "colors": [],
+        "available": 15,
+        "sold": 30,
+        "categories": [
+            "Men",
+            "Clothing",
+            "Jackets & Coats",
+            "New Arrivals"
+        ]
+    },
+    {
+        "title": "Cotton and Linen Basic Shirt",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 179.00,
+            "discount": 17,
+            "disPrice": 149.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/3w3N9V6Y/fashion-portrait-handsome-happy-man-yellow-shirt-with-hand-near-face-poses_186202-9030.jpg"
+        ],
+        "sizes": [
+        ],
+        "colors": [],
+        "available": 15,
+        "sold": 30,
+        "categories": [
+            "Men",
+            "Clothing",
+            "Shirts",
+            "Sweatshirts & Hoodies"
+        ]
+    },
+    {
+        "title": "Corduroy Bucket Hat",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 6.99,
+            "discount": 43,
+            "disPrice": 4.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/LsvXWvKf/young-handsome-man-posing-with-hat_23-2148884343.jpg",
+            "https://i.postimg.cc/rFL5DQgQ/bucket4.jpg"
+        ],
+        "sizes": [
+        ],
+        "colors": [],
+        "available": 30,
+        "sold": 10,
+        "categories": [
+            "Men",
+            "Clothing",
+            "Hat"
+        ]
+    },
+    {
+        "title": "Carpenter Jeans",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 109.00,
+            "discount": 27,
+            "disPrice": 79.99,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/pTTTM8RS/full-shot-man-looking-away_23-2148384486.jpg"
+        ],
+        "sizes": [
+        ],
+        "colors": [],
+        "available": 30,
+        "sold": 10,
+        "categories": [
+            "Men",
+            "Clothing",
+            "Cargo Trousers",
+            "Jeans",
+            "Pants"
+        ]
+    },
+    {
+        "title": "Black Hoodie With Contrast Graphic",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 59.99,
+            "discount": 17,
+            "disPrice": 49.99,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/Jn2hrnhz/young-caucasian-man-casual_144627-129.jpg"
+        ],
+        "sizes": [
+        ],
+        "colors": [],
+        "available": 15,
+        "sold": 5,
+        "categories": [
+            "Men",
+            "Clothing",
+            "Sweatshirts & Hoodies"
+        ]
+    },
+    {
+        "title": "Basic Slim Fit Chinos Trousers",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 37.80,
+            "discount": 40,
+            "disPrice": 22.90,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/tJn4Yj1t/black-turtleneck-t-shirt-men-s-business-wear_53876-104304.jpg"
+        ],
+        "sizes": [
+        ],
+        "colors": [],
+        "available": 18,
+        "sold": 7,
+        "categories": [
+            "Men",
+            "Clothing",
+            "Pants"
+        ]
+    },
+    {
+        "title": "Basic Colored SweatPants With Elastic Hems",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 25.90,
+            "discount": 24,
+            "disPrice": 19.90,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/j2qkXH0M/woman-model-demonstrating-cloths-1303-31630.jpg"
+        ],
+        "sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "Apple Red",
+            "Blue",
+            "Pink",
+            "Green",
+            "White",
+            "Black"
+        ],
+        "available": 13,
+        "sold": 37,
+        "categories": [
+            "Women",
+            "Clothing",
+            "Pants",
+            "Best Sellers"
+        ],
+        "reviews": [
+            {
+                "author": "John Decker",
+                "image": "",
+                "description": "Sed perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+                "rating": 5
+            },
+            {
+                "author": "Lynda William",
+                "image": "",
+                "description": "Sed perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "title": "Basic High-Neck Puff Jacket",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 89.00,
+            "discount": 0,
+            "disPrice": 89.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/65N0VLww/portrait-handsome-young-man-posing_23-2148421571.jpg"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 13,
+        "sold": 7,
+        "categories": [
+            "Women",
+            "Clothing",
+            "Jackets & Coats"
+        ]
+    },
+    {
+        "title": "Basic Relax Fit Leggings",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 29.90,
+            "discount": 17,
+            "disPrice": 24.90,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/Qxkqf9x7/full-body-young-cheerful-smiling-woman-sports-wear-isolated_231208-10509.jpg"
+        ],
+        "sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "Apple Red",
+            "Blue",
+            "Pink",
+            "Green",
+            "White",
+            "Black"
+        ],
+        "available": 24,
+        "sold": 12,
+        "categories": [
+            "Women",
+            "Clothing",
+            "Pants"
+        ]
+    },
+    {
+        "title": "Rose Printed Hoodie",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 110.99,
+            "discount": 0,
+            "disPrice": 110.99,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/Qd8Jw8Hy/pretty-young-female-standing-with-hood-head_651396-230.jpg"
+        ],
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "Apple Red",
+            "Blue",
+            "Pink",
+            "Black"
+        ],
+        "available": 28,
+        "sold": 15,
+        "categories": [
+            "Women",
+            "Clothing",
+            "Sweatshirts & Hoodies"
+        ]
+    },
+    {
+        "title": "Sleeveless Ribbed Short Dress Black",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 19.99,
+            "discount": 26,
+            "disPrice": 14.99,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/ht21qkmP/sexy-young-woman-posing-with-black-dress_144627-25313.jpg"
+        ],
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [],
+        "available": 16,
+        "sold": 13,
+        "categories": [
+            "Women",
+            "Clothing",
+            "Dresses"
+        ]
+    },
+    {
+        "title": "Slogan Hoodie With Label Detail",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 18.99,
+            "discount": 37,
+            "disPrice": 11.99,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/TPhq2tjj/close-up-portrait-teenager-isolated_23-2149158186.jpg"
+        ],
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [],
+        "available": 6,
+        "sold": 30,
+        "categories": [
+            "Women",
+            "Clothing",
+            "Sweatshirts & Hoodies"
+        ]
+    },
+    {
+        "title": "Short Nylon-Effect Puffer Jacket",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 50.29,
+            "discount": 26,
+            "disPrice": 39.90,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/5tG5X8ph/young-attractive-woman-blue-winter-jacket_1303-20110.jpg"
+        ],
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [],
+        "available": 16,
+        "sold": 305,
+        "categories": [
+            "Women",
+            "Clothing",
+            "Jackets & Coats"
+        ]
+    },
+    {
+        "title": "Sleeveless Ribbed Short Dress",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 19.99,
+            "discount": 26,
+            "disPrice": 14.99,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/Rh1wpy9m/fashion-photo-young-magnificent-woman-bright-dress_158595-309.jpg"
+        ],
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [],
+        "available": 16,
+        "sold": 35,
+        "categories": [
+            "Women",
+            "Clothing",
+            "Dresses"
+        ]
+    },
+    {
+        "title": "Short Sleeve T-Shirt",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 48.90,
+            "discount": 21,
+            "disPrice": 38.90,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/pTFfzy6p/beautiful-young-smiling-caucasian-woman-posing-white-background_186202-4687.jpg"
+        ],
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "colors": [],
+        "available": 40,
+        "sold": 18,
+        "categories": [
+            "Women",
+            "Clothing",
+            "T-Shirts"
+        ]
+    },
+    {
+        "title": "Short Dress With Knotted Skirt",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 85.90,
+            "discount": 47,
+            "disPrice": 45.90,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/qvwjvtPr/thoughtful-business-woman-isolated-white-background_1212-715.jpg"
+        ],
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "colors": [],
+        "available": 40,
+        "sold": 18,
+        "categories": [
+            "Women",
+            "Clothing",
+            "Skirts",
+            "Dresses",
+            "Best Sellers"
+        ]
+    },
+    {
+        "title": "Ripped Wide-Leg ’90s Jeans",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 45.90,
+            "discount": 16,
+            "disPrice": 38.90,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/FRdZpT7F/denims_1303-4488.jpg"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 28,
+        "sold": 12,
+        "categories": [
+            "Women",
+            "Clothing",
+            "Jeans",
+            "Pants"
+        ]
+    },
+    {
+        "title": "Ripped Mom Jeans – Contains Recycled Cotton",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 59.90,
+            "discount": 37,
+            "disPrice": 37.90,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/prKBbyfg/full-length-portrait-attractive-girl-casual-jeans-clothes-possing-studio_382934-3212.jpg"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 28,
+        "sold": 12,
+        "categories": [
+            "Women",
+            "Clothing",
+            "Jeans",
+            "Pants"
+        ]
+    },
+    {
+        "title": "Ripped Flared Vintage Jeans",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 45.90,
+            "discount": 18,
+            "disPrice": 39.90,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/4dThrG50/pretty-female-model-posing-with-smiling-face-expression-red-wall-158595-4938.jpg"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 20,
+        "sold": 14,
+        "categories": [
+            "Women",
+            "Clothing",
+            "Jeans",
+            "Pants"
+        ]
+    },
+    {
+        "title": "Ribbed V-Neck Cardigan With Rhinestone Detail",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 28.99,
+            "discount": 21,
+            "disPrice": 22.99,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/NMkqx8Fn/thoughtful-business-woman-isolated-white-background_1212-740.jpg"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 30,
+        "sold": 8,
+        "categories": [
+            "Women",
+            "Clothing",
+            "Blazers",
+            "Blouses & Shirts",
+            "Dresses",
+            "Best Sellers"
+        ]
+    },
+    {
+        "title": "Ribbed Cropped T-Shirt With Buttons",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 23.99,
+            "discount": 23,
+            "disPrice": 18.70,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/dQj8chgj/elegant-young-woman-white-shorts-vest-sneakers-brown-coffee-background-studio-shot-481253-668.jpg"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 23,
+        "sold": 17,
+        "categories": [
+            "Women",
+            "Clothing",
+            "T-Shirts",
+            "Blouses & Shirts",
+            "New Arrivals"
+        ]
+    },
+    {
+        "title": "Blue Starter Logo T-shirt",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 22.70,
+            "discount": 18,
+            "disPrice": 18.70,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/hvbfR6yX/starter1.jpg",
+            "https://i.postimg.cc/qMwzbf6Y/starter2.jpg"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 89,
+        "sold": 45,
+        "categories": [
+            "Women",
+            "Clothing",
+            "T-Shirts",
+            "Blouses & Shirts"
+        ]
+    },
+    {
+        "title": "Oversized V-neck T-shirt",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 64.00,
+            "discount": 0,
+            "disPrice": 64.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/JhXk60bJ/portrait-attractive-pretty-woman-268317-308.jpg"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 59,
+        "sold": 21,
+        "categories": [
+            "Women",
+            "Clothing",
+            "T-Shirts",
+            "Blouses & Shirts",
+            "Sweatshirts & Hoodies"
+        ]
+    },
+    {
+        "title": "Oversized Corduroy Shirt",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 24.99,
+            "discount": 0,
+            "disPrice": 24.99,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/HsSXjfYJ/vertical-image-fashionable-confident-young-european-woman-with-dark-hair-combed-back-posing-wearing.jpg"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 80,
+        "sold": 25,
+        "categories": [
+            "Women",
+            "Clothing",
+            "T-Shirts",
+            "Blouses & Shirts",
+            "Sweatshirts & Hoodies"
+        ]
+    },
+    {
+        "title": "Oversize Varsity Hoodie",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 57.99,
+            "discount": 52,
+            "disPrice": 27.99,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/CxzD8m5c/smiling-woman-hooded-sweatshirt-looking-157927-694.jpg"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 40,
+        "sold": 15,
+        "categories": [
+            "Women",
+            "Clothing",
+            "Sweatshirts & Hoodies"
+        ]
+    },
+    {
+        "title": "Oversize Faux Leather Biker Jacket",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 70.00,
+            "discount": 12,
+            "disPrice": 45.99,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/GmVDxGsd/young-woman-black-leather-jacket-standing-against-wall-looking-away-23-2148148137.jpg"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 55,
+        "sold": 20,
+        "categories": [
+            "Women",
+            "Clothing",
+            "Jackets & Coats",
+            "SUITS"
+        ]
+    },
+    {
+        "title": "Nylon Puffer Gilet",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 1399.00,
+            "discount": 8,
+            "disPrice": 1299.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/Jnbjn00m/beautiful-young-woman-gray-autumn-jacket-white-background-advertising-photography-concept-store-2117.jpg"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 55,
+        "sold": 20,
+        "categories": [
+            "Women",
+            "Clothing",
+            "Jackets & Coats"
+        ]
+    },
+    {
+        "title": "Multicolored Open-Knit Crewneck Sweater",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 65.90,
+            "discount": 25,
+            "disPrice": 49.90,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/XqLFfP9z/young-caucasian-woman-isolated-yellow-background-1187-213079.jpg"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 28,
+        "sold": 5,
+        "categories": [
+            "Women",
+            "Clothing",
+            "Sweatshirts & Hoodies"
+        ]
+    },
+    {
+        "title": "Long Sleeve Sweatshirt Dress",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 29.90,
+            "discount": 17,
+            "disPrice": 24.90,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/Jzn3qR6c/young-attractive-slim-woman-23-2148012451.jpg"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 28,
+        "sold": 5,
+        "categories": [
+            "Women",
+            "Clothing",
+            "Sweatshirts & Hoodies"
+        ]
+    },
+    {
+        "title": "Long Sleeve Graphic T-shirt",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 19.90,
+            "discount": 0,
+            "disPrice": 19.90,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/Pqvmg2kC/stylish-young-woman-knitted-sweater-212944-187.jpg"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 45,
+        "sold": 8,
+        "categories": [
+            "Women",
+            "Clothing",
+            "Sweatshirts & Hoodies"
+        ]
+    },
+    {
+        "title": "Knee-High Heeled Boots",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 69.00,
+            "discount": 29,
+            "disPrice": 49.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/WbS6gdn1/full-shot-woman-posing-red-dress-23-2149884606.jpg"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 45,
+        "sold": 8,
+        "categories": [
+            "Women",
+            "Clothing",
+            "Shoes"      ]
+    },
+    {
+        "title": "Soft Shoulder Bag",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 64.40,
+            "discount": 12,
+            "disPrice": 56.80,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/dtR1vC1k/softbag1.jpg",
+            "https://i.postimg.cc/cLXLtNfd/softbag4.jpg"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 20,
+        "sold": 15,
+        "categories": [
+            "Women",
+            "Clothing",
+            "Bags"
+        ]
+    },
+    {
+        "title": "Electrolux UltimateTaste 500 Top Freezer Refrigerator 537L EMT86910X",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 1100.00,
+            "discount": 12,
+            "disPrice": 968.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/7YM008bx/Electrolux-Ultimate-Taste-500-Top-Freezer-Refrigerator-537-L-EMT86910-X-1-2.png"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 20,
+        "sold": 15,
+        "categories": [
+            "Electronics",
+            "Fridge"
+        ]
+    },
+    {
+        "title": "Mabe MEM30VHDCSS Side by Side Refrigerator 849L",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 2200.00,
+            "discount": 8,
+            "disPrice": 2024.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/XYjFgHy9/MEM30-VHDCSS-1.png"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 20,
+        "sold": 15,
+        "categories": [
+            "Electronics",
+            "Fridge",
+            "New Arrivals"
+        ]
+    },
+    {
+        "title": "Xiaomi TV Max 4K UHD Android TV – 86 Inch",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 1300.00,
+            "discount": 24,
+            "disPrice": 988.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/d3cnQ2Nn/Xiaomi-TV-Max-86-1.png"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 20,
+        "sold": 15,
+        "categories": [
+            "Electronics",
+            "Television",
+            "Best Sellers"
+        ]
+    },
+    {
+        "title": "Toshiba 75C350LW Class C350 Series UHD Smart Fire TV – 75 Inch",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 950.00,
+            "discount": 15,
+            "disPrice": 807.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/d3cnQ2Nn/Xiaomi-TV-Max-86-1.png"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 16,
+        "sold": 8,
+        "categories": [
+            "Electronics",
+            "Television"
+        ]
+    },
+    {
+        "title": "Samsung AR18NVFSGWK/QT 1.5 Ton Split AC with Digital Inverter Technology",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 800.00,
+            "discount": 0,
+            "disPrice": 800.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/fbrSvMx9/Samsung-AR18-NVFSGWKQT-2.png"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 16,
+        "sold": 8,
+        "categories": [
+            "Electronics",
+            "Air Conditioner"
+        ]
+    },
+    {
+        "title": "Panasonic CSUV24WKF-6 Split Air Conditioner",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 700.00,
+            "discount": 12,
+            "disPrice": 616.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/wvRyfnVb/Panasonic-CSUV24-WKF-6-Split-Air-Conditioner.png"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 26,
+        "sold": 20,
+        "categories": [
+            "Electronics",
+            "Air Conditioner"
+        ]
+    },
+    {
+        "title": "Toshiba MM-EM20P(WH) 20 Litre Microwave Oven – White",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 80.00,
+            "discount": 10,
+            "disPrice": 72.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/NGPCrX9s/Toshiba-MM-EM20-P-WH-20-Litre-Microwave-Oven-White-1.png"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 26,
+        "sold": 20,
+        "categories": [
+            "Electronics",
+            "Microwave Oven"
+        ]
+    },
+    {
+        "title": "Zenan ZEO-GT32R-S1 32L Electric Oven",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 80.00,
+            "discount": 10,
+            "disPrice": 72.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/TYL7jPgr/Zenan-ZEO-GT32-R-S1-32-L-Electric-Oven.png"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 26,
+        "sold": 20,
+        "categories": [
+            "Electronics",
+            "Microwave Oven"
+        ]
+    },
+    {
+        "title": "Clikon CK4022 Floor Vaccum Cleaner",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 50.00,
+            "discount": 18,
+            "disPrice": 41.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/6QknX9yN/Clikon-CK4022-Floor-Vaccum-Cleaner-1.png"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 26,
+        "sold": 20,
+        "categories": [
+            "Electronics",
+            "Vaccum Cleaner",
+            "Best Sellers"
+        ]
+    },
+    {
+        "title": "Hitachi PVXE700240CG Cordless Stick Vaccum Cleaner – Champagne Gold",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 600.00,
+            "discount": 10,
+            "disPrice": 540.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/bJ1bYKtS/Hitachi-PVXE700240-CG-Cordless-Stick-Vaccum-Cleaner-Champagne-Gold-2.png"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 26,
+        "sold": 20,
+        "categories": [
+            "Electronics",
+            "Vaccum Cleaner",
+            "New Arrivals"
+        ]
+    },
+    {
+        "title": "Samsung WD10T554DBN/SG Front Load Washer & Dryer 10Kg",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 1050.00,
+            "discount": 5,
+            "disPrice": 997.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/L5NVRrcB/Samsung-WD10-T554-DBN-SG-Front-Load-Washer-Dryer-10-Kg.png"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 18,
+        "sold": 8,
+        "categories": [
+            "Electronics",
+            "Washing Machine",
+            "New Arrivals"
+        ]
+    },
+    {
+        "title": "Bosch WTG86401GC Series 6 Condenser Tumble Dryer, 9 kg – White",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 900.00,
+            "discount": 8,
+            "disPrice": 828.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/3rB1gvk4/Bosch-WTG86401-GC-Series-6-Condenser-Tumble-Dryer-9-kg-White-2.png"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 26,
+        "sold": 20,
+        "categories": [
+            "Electronics",
+            "Washing Machine"
+        ]
+    },
+    {
+        "title": "JBL Boombox 3 Portable Speaker – Black",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 600.00,
+            "discount": 12,
+            "disPrice": 528.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/7ZWT3g8V/JBL-Boombox-3-black-1.png"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 26,
+        "sold": 20,
+        "categories": [
+            "Electronics",
+            "Speakers",
+            "Bluetooth Speakers"
+        ]
+    },
+    {
+        "title": "Olsenmark OMMS1178 Party Speaker with Remote Control and Mic – Black",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 70.00,
+            "discount": 12,
+            "disPrice": 61.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/NLhQGfWR/Olsenmark-Party-Speaker-with-Remote-Control-Mic-Black-2-8.png"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 26,
+        "sold": 20,
+        "categories": [
+            "Electronics",
+            "Speakers",
+            "Karaoke Speakers"
+        ]
+    },
+    {
+        "title": "Beats Studio 3 Wireless Headphone – Shadow Grey",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 300.00,
+            "discount": 15,
+            "disPrice": 255.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/bYZbvC7v/BEATS-STUDIO-3-WIRELESS-HEADPHONES-SHADOW-GREY-1.png"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 26,
+        "sold": 20,
+        "categories": [
+            "Electronics",
+            "Headphones",
+            "Wireless Headphones",
+            "Best Sellers"
+        ]
+    },
+    {
+        "title": "JBL Vibe 200TWS True Wireless Earbuds – Black",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 55.00,
+            "discount": 25,
+            "disPrice": 41.00,
+            "discountDuration": 20
+        },
+        "image": [
+            "https://i.postimg.cc/D0G8PDhd/JBL-VIBE-200-TWS-TRUE-WIRELESS-EARBUDS-BLACK-1-4.png"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 26,
+        "sold": 20,
+        "categories": [
+            "Electronics",
+            "Headphones",
+            "Wireless Headphones",
+            "Best Sellers"
+        ]
+    },
+    {
+        "title": "HATIL Obsession-151 Semi Double Bed",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 400.00,
+            "discount": 12,
+            "disPrice": 350.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/G3VXVkJB/3d-render-modern-bedroom-interior-design-674881-1587.jpg"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 26,
+        "sold": 20,
+        "categories": [
+            "Furniture",
+            "Bed",
+            "New Arrivals"
+        ]
+    },
+    {
+        "title": "HATIL Mirage-175 King Size Bed",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 500.00,
+            "discount": 16,
+            "disPrice": 420.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/MKB9Svd9/beautiful-bed-middle-bedroom-23-2148982015.jpg"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 26,
+        "sold": 20,
+        "categories": [
+            "Furniture",
+            "Bed",
+            "Best Sellers"
+        ]
+    },
+    {
+        "title": "Prospero Stylish Gray Chair",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 200.00,
+            "discount": 20,
+            "disPrice": 160.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/Mp8dKqLq/beautiful-shot-stylish-grey-chair-isolated-white-background-181624-25232.jpg"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 26,
+        "sold": 20,
+        "categories": [
+            "Furniture",
+            "Chair",
+            "Best Sellers"
+        ]
+    },
+    {
+        "title": "Kingsport Gray Comfortable armchair",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 200.00,
+            "discount": 25,
+            "disPrice": 150.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/BncNjRWD/grey-comfortable-armchair-isolated-white-background-181624-25295.jpg"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 26,
+        "sold": 20,
+        "categories": [
+            "Furniture",
+            "Chair",
+            "New Arrivals"
+        ]
+    },
+    {
+        "title": "Premium Dark Grey 2-Seater Sofa",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 300.00,
+            "discount": 7,
+            "disPrice": 280.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/858NLY9m/dark-grey-sofa-with-two-portraits-top-two-pillows-small-table-front-719646-172.jpg"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 26,
+        "sold": 20,
+        "categories": [
+            "Furniture",
+            "Sofa"
+        ]
+    },
+    {
+        "title": "Premium White 4-seater Dining Table",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 200.00,
+            "discount": 25,
+            "disPrice": 150.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/qBzLfm74/luxury-rich-expensive-apartment-interior-light-colors-stylish-contemporary-minimalistic-design-full.jpg"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 26,
+        "sold": 20,
+        "categories": [
+            "Furniture",
+            "Dining Table"
+        ]
+    },
+    {
+        "title": "Simple Wooden Four Row Bookself",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 200.00,
+            "discount": 25,
+            "disPrice": 150.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/Y0M7sWp4/empty-wooden-bookshelves-wall-shelves-books-107791-2247.jpg"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 26,
+        "sold": 20,
+        "categories": [
+            "Furniture",
+            "Book Self"
+        ]
+    },
+    {
+        "title": "ASICS Men's Gel-Contend 7 Running Shoe",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 50.00,
+            "discount": 20,
+            "disPrice": 40.00,
+            "discountDuration": 20
+        },
+        "image": [
+            "https://i.postimg.cc/B66TxGQL/sports-shoes-front-view-33548-6.jpg"
+        ],
+        "sizes": [
+            "38",
+            "40",
+            "42",
+            "44"
+        ],
+        "colors": [],
+        "available": 26,
+        "sold": 20,
+        "categories": [
+            "Shoes",
+            "Clothing",
+            "Men"
+        ]
+    },
+    {
+        "title": "Clarks Men's Tilden Cap Oxford Shoe",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 70.00,
+            "discount": 12,
+            "disPrice": 62.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/rm09BkX6/pair-black-leather-men-s-shoes-gray-wooden-background-stylish-elegant-shoes-men-393202-2602.jpg"
+        ],
+        "sizes": [
+            "38",
+            "40",
+            "42",
+            "44"
+        ],
+        "colors": [],
+        "available": 26,
+        "sold": 20,
+        "categories": [
+            "Shoes",
+            "Clothing",
+            "Men",
+            "Best Sellers"
+        ]
+    },
+    {
+        "title": "Adidas Men's Lite Racer Adapt 4.0 Running Shoe",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 120.00,
+            "discount": 0,
+            "disPrice": 120.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/Fs9Lc4W9/sports-footwear-black-background-22736-1228.jpg"
+        ],
+        "sizes": [
+            "38",
+            "40",
+            "42",
+            "44"
+        ],
+        "colors": [],
+        "available": 26,
+        "sold": 20,
+        "categories": [
+            "Shoes",
+            "Clothing",
+            "Men",
+            "New Arrivals"
+        ]
+    },
+    {
+        "title": "PUMA Men's Grip Fusion Sport Golf Shoe",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 80.00,
+            "discount": 30,
+            "disPrice": 56.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/8cdLGkZY/fashion-trendy-blue-sneaker-grass-field-1357-194.jpg"
+        ],
+        "sizes": [
+            "38",
+            "40",
+            "42",
+            "44"
+        ],
+        "colors": [],
+        "available": 26,
+        "sold": 20,
+        "categories": [
+            "Shoes",
+            "Clothing",
+            "Men"
+        ]
+    },
+    {
+        "title": "PUMA Men's Softride Premier Slip on Wide Running Shoe",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 59.00,
+            "discount": 16,
+            "disPrice": 49.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/FH6d2J9R/lace-side-leather-fashion-shoes-1172-453.jpg"
+        ],
+        "sizes": [
+            "38",
+            "40",
+            "42",
+            "44"
+        ],
+        "colors": [],
+        "available": 26,
+        "sold": 20,
+        "categories": [
+            "Shoes",
+            "Clothing",
+            "Men"
+        ]
+    },
+    {
+        "title": "Rockport Men's Style Leader 2 Plain Toe Oxford",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 120.00,
+            "discount": 40,
+            "disPrice": 72.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/CKfBYL14/leather-men-s-shoes-93675-23334.jpg"
+        ],
+        "sizes": [
+            "38",
+            "40",
+            "42",
+            "44"
+        ],
+        "colors": [],
+        "available": 26,
+        "sold": 20,
+        "categories": [
+            "Shoes",
+            "Clothing",
+            "Men"
+        ]
+    },
+    {
+        "title": "Fossil Men's FB-01 Stainless Steel Dive-Inspired Casual Quartz Watch",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 80.00,
+            "discount": 16,
+            "disPrice": 67.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/zfY3hxh1/elegant-men-fashion-wristwatch-1871-386.jpg"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 26,
+        "sold": 20,
+        "categories": [
+            "Watches",
+            "Men"
+        ]
+    },
+    {
+        "title": "Bulova Mens Precisionist Leather Strap Watch",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 425.00,
+            "discount": 52,
+            "disPrice": 202.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/CxkxwbQr/realistic-watch-clock-silver-brown-face-arrow-number-with-leather-strap-white-classic-luxury-vector.jpg"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 26,
+        "sold": 20,
+        "categories": [
+            "Watches",
+            "Men"
+        ]
+    },
+    {
+        "title": "Fossil Men's Townsman Stainless Steel Mechanical Automatic Watch",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 250.00,
+            "discount": 20,
+            "disPrice": 200.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/D00zhD91/closeup-shot-golden-watch-isolated-181624-28492.jpg"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 26,
+        "sold": 20,
+        "categories": [
+            "Watches",
+            "Men"
+        ]
+    },
+    {
+        "title": "Fossil Men's Grant Stainless Steel Quartz Chronograph Watch",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 320.00,
+            "discount": 0,
+            "disPrice": 320.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/1zKRqsPp/realistic-clock-watch-blue-grey-face-yellow-arrow-white-number-metal-rubber-strap-33869-2252.jpg"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 26,
+        "sold": 20,
+        "categories": [
+            "Watches",
+            "Men",
+            "New Arrivals"
+        ]
+    },
+    {
+        "title": "Fossil Men's Townsman Stainless Steel and Leather Casual Quartz Chronograph Watch",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 150.00,
+            "discount": 13,
+            "disPrice": 130.00,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/GpRhtH0L/smartwatch-mockup-close-up-1332-20648.jpg"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 26,
+        "sold": 20,
+        "categories": [
+            "Watches",
+            "Men",
+            "Best Sellers"
+        ]
+    },
+    {
+        "title": "Armitron Women's 75/3313SVTT Two-Tone Dress Watch",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 45.00,
+            "discount": 33,
+            "disPrice": 29.99,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/hPGm4ZLy/elegant-watch-with-silver-golden-chain-lights-isolated-181624-28442.jpg"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 26,
+        "sold": 20,
+        "categories": [
+            "Watches",
+            "Women"
+        ]
+    },
+    {
+        "title": "Anne Klein Women's Bracelet Watch",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 65.00,
+            "discount": 57,
+            "disPrice": 27.99,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/L601JkvH/golden-watch-with-diamonds-gray-33869-128.jpg"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 26,
+        "sold": 20,
+        "categories": [
+            "Watches",
+            "Women"
+        ]
+    },
+    {
+        "title": "Nine West Women's Mesh Bracelet Watch",
+        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce ferMentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor. Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, eleMentum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": {
+            "general": 36.75,
+            "discount": 40,
+            "disPrice": 21.99,
+            "discountDuration": 0
+        },
+        "image": [
+            "https://i.postimg.cc/6307tCyx/realistic-stainless-steel-wristwatch-chronograph-black-number-arrow-white-design-luxury-vector-33869.jpg"
+        ],
+        "sizes": [],
+        "colors": [],
+        "available": 26,
+        "sold": 20,
+        "categories": [
+            "Watches",
+            "Women"
+        ]
+    }
+]

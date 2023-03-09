@@ -1,0 +1,110 @@
+.breadcrumb{
+    font-size: 1.2rem;
+}
+
+.product-title{
+    font-size: 3.5rem;
+}
+
+.product-detail-price{
+    font-size: 2.4rem;
+}
+
+.product-detail-price .discount-price{
+    font-size: 2.6rem;
+    font-weight: 500;
+}
+
+
+.product-detail, .product-sizes, .product-colors, .product-stock-status, .add-to-wishlist, .data{
+    font-size: 1.6rem;
+}
+
+.in-stock{
+    background-color: rgba(42, 182, 126, 0.171);
+    color: #2ab67e;
+    font-weight: 500;
+}
+
+.out-stock{
+    background-color: #c9232334;
+    color: #c92323;
+    font-weight: 500;
+}
+
+.product-size-box{
+    width: 80px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #a1a1a191;
+    cursor: pointer;
+}
+
+.product-size-list .active{
+    background-color: var(--oliveDrabe);
+    color: var(--nyanza);
+}
+
+.quantity{
+    width: 120px;
+    height: 50px;
+    border: 1px solid #a1a1a191;
+    font-size: 1.6rem;
+    font-weight: 500;
+}
+
+.add-to-cart{
+    width: 300px;
+    height: 50px;
+    background-color: #000;
+    color: var(--nyanza);
+    font-size: 1.6rem;
+    font-weight: 500;
+}
+
+hr{
+    border-color: #a1a1a160;
+}
+
+.data-tabs .active{
+    color: #000;
+}
+
+.data-tabs .active:hover{
+    color: #000;
+}
+
+.data-tab{
+    font-size: 2rem;
+    font-weight: 500;
+    color: #a1a1a1a9;
+}
+
+.data-tab:hover{
+    color: #a1a1a1;
+}
+
+.add-review h2{
+    font-size: 1.8rem;
+}
+
+.review{
+    background-color: var(--nyanza);
+    border: 1px solid #a1a1a160;
+}
+
+.review:focus{
+    border: 1px solid #000;
+}
+
+.submit-btn{
+    background-color: #a1a1a160;
+    transition: all 0.3s;
+}
+
+.submit-btn:hover{
+    background-color: #000;
+    color: var(--nyanza);
+}

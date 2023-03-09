@@ -37,7 +37,7 @@ const Trendings = () => {
                         <Link className='flex items-center' to='/'>Shop Now <BsArrowRight className='ml-5' /></Link>
                     </div>
                     <div className='w-100 h-full absolute top-0 right-0 flex justify-end'>
-                        <img className='w-100 h-full right-0' src='https://i.postimg.cc/26sZDpLk/pexels-jeff-denlea-2922264-removebg-preview-1.png' alt="" border="0" />
+                        <img className='w-100 h-full right-0' src='https://i.postimg.cc/hPdSBpB0/pexels-jeff-denlea-2922264-removebg-preview-1.png' alt="" border="0" />
                     </div>
                 </div>
             </div>
