@@ -6,9 +6,9 @@ const Categories = () => {
   const [categories, setCategories] = useState();
 
   useEffect(() => {
-    fetch("categories.json")
+    fetch("https://cart-crowd-server.vercel.app/categories")
       .then((res) => res.json())
-      .then((data) => setCategories(data))
+      .then((data) => setCategories(data.data))
       .catch((error) => console.log(error.message));
   }, []);
 

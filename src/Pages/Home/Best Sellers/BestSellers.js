@@ -10,7 +10,7 @@ const BestSellers = () => {
   const [products, setProducts] = useState();
 
   useEffect(() => {
-    fetch("http://localhost:5000/shop/Best%20Sellers")
+    fetch("https://cart-crowd-server.vercel.app/shop/Best%20Sellers")
       .then((res) => res.json())
       .then((data) => {
         setProducts(data.data);

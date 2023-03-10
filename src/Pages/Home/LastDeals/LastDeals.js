@@ -6,7 +6,7 @@ const LastDeals = () => {
   const [products, setProducts] = useState();
 
   useEffect(() => {
-    fetch("http://localhost:5000/products/lastdeals")
+    fetch("https://cart-crowd-server.vercel.app/products/lastdeals")
       .then((res) => res.json())
       .then((data) => setProducts(data.data))
       .catch((error) => console.log(error.message));

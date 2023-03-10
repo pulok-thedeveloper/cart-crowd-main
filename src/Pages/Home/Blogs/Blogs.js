@@ -10,7 +10,7 @@ const Blogs = () => {
   const [blogs, setBlogs] = useState();
 
   useEffect(() => {
-    fetch("http://localhost:5000/blogs")
+    fetch("https://cart-crowd-server.vercel.app/blogs")
       .then((res) => res.json())
       .then((data) => setBlogs(data.data))
       .catch((err) => console.log(err.message));

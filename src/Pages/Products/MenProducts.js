@@ -10,7 +10,7 @@ const MenProducts = () => {
     const [catData, setcatData] = useState();
 
     useEffect(() => {
-        fetch(`http://localhost:5000/shop/men/${category}`)
+        fetch(`https://cart-crowd-server.vercel.app/shop/men/${category}`)
             .then(res => res.json())
             .then(data => {
                 setProducts(data.data);

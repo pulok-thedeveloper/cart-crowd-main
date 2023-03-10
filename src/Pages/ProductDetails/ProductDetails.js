@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useContext, useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { FreeMode, Navigation, Thumbs } from "swiper";
@@ -7,18 +7,20 @@ import { AiOutlinePlus, AiOutlineMinus } from "react-icons/ai";
 import { FaRegHeart } from "react-icons/fa";
 import ReactStars from "react-rating-stars-component";
 import { useForm } from "react-hook-form";
+import { AuthContext } from "../../Context/AuthProvider";
 
 const ProductDetails = () => {
   const router = useParams();
   const { id } = router;
   const [product, setProduct] = useState();
-  const [thumbsSwiper, setThumbsSwiper] = useState(null);
   const [pSize, setPsize] = useState(1);
   const [quantity, setQuantity] = useState(1);
   const dataTabs = ["Description", "Additional Information", "Reviews"];
   const [dataTab, setDataTab] = useState(dataTabs[0]);
   const { register, handleSubmit } = useForm();
   const onSubmit = (data) => console.log(data);
+  const {addToDb} = useContext(AuthContext);
+
 
   const ratingChanged = (newRating) => {
     console.log(newRating);
@@ -43,8 +45,13 @@ const ProductDetails = () => {
     setDataTab(dataTabs[index]);
   };
 
+
+  const handleAddToCart = (id, quantity) =>{
+    addToDb(id, quantity);
+  }
+
   useEffect(() => {
-    fetch(`http://localhost:5000/product/${id}`)
+    fetch(`https://cart-crowd-server.vercel.app/product/${id}`)
       .then((res) => res.json())
       .then((data) => {
         setProduct(data.data);
@@ -87,7 +94,6 @@ const ProductDetails = () => {
             loop={true}
             spaceBetween={10}
             navigation={true}
-            thumbs={{ swiper: thumbsSwiper }}
             modules={[FreeMode, Navigation, Thumbs]}
             className="mySwiper"
           >
@@ -97,21 +103,6 @@ const ProductDetails = () => {
               </SwiperSlide>
             ))}
           </Swiper>
-          {/* <Swiper
-                        onSwiper={setThumbsSwiper}
-                        spaceBetween={10}
-                        slidesPerView={4}
-                        freeMode={true}
-                        watchSlidesProgress={true}
-                        modules={[FreeMode, Navigation, Thumbs]}
-                        className="mySwiper"
-                    >
-                        {
-                            product?.image.map((image, index) => <SwiperSlide key={index}>
-                                <img src={image} alt="" />
-                            </SwiperSlide>)
-                        }
-                    </Swiper> */}
         </div>
         <div className="col-span-7">
           <h1 className="product-title mb-5">{product?.title}</h1>
@@ -182,7 +173,7 @@ const ProductDetails = () => {
               </span>
             </div>
             <div>
-              <button className="add-to-cart">Add to cart</button>
+              <button onClick={()=>handleAddToCart(id, quantity)} className="add-to-cart">Add to cart</button>
             </div>
           </div>
           <div className="flex mb-10">

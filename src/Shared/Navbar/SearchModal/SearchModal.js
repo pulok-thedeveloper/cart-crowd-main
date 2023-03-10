@@ -14,7 +14,7 @@ const SearchModal = ({ closeModal }) => {
   };
 
   useEffect(() => {
-    fetch("http://localhost:5000/shop")
+    fetch("https://cart-crowd-server.vercel.app/shop")
       .then((res) => res.json())
       .then((data) => setProducts(data.data))
       .catch((error) => console.log(error.message));

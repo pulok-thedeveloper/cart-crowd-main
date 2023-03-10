@@ -1,0 +1,27 @@
+.form-container{
+    background-color: rgba(17, 76, 95, 0.1);
+}
+
+.form-control{
+    font-size: 1.5rem;
+}
+
+.form-control input{
+    outline: 0;
+    border: 1px solid rgba(17, 76, 95, 0.1);
+}
+
+.form-control input:focus{
+    border: 1px solid var(--oliveDrabe);
+}
+
+.signup-btn{
+    background-color: var(--oliveDrabe);
+    color: var(--nyanza);
+    cursor: pointer;
+}
+
+.login-link{
+    color: var(--oliveDrabe);
+    font-weight: 500;
+}
