@@ -33,8 +33,8 @@ const BestSellers = () => {
           modules={[Pagination, Navigation, Autoplay]}
         >
           {products?.map((product) => (
-            <SwiperSlide className="grid">
-              <ProductsCard key={product._id} product={product}></ProductsCard>
+            <SwiperSlide className="grid" key={product._id} >
+              <ProductsCard product={product}></ProductsCard>
             </SwiperSlide>
           ))}
         </Swiper>

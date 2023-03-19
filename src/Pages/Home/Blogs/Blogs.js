@@ -31,8 +31,8 @@ const Blogs = () => {
           modules={[Pagination, Navigation, Autoplay]}
         >
           {blogs?.map((blog) => (
-            <SwiperSlide>
-              <BlogCard key={blog._id} blog={blog}></BlogCard>
+            <SwiperSlide key={blog._id}>
+              <BlogCard blog={blog}></BlogCard>
             </SwiperSlide>
           ))}
         </Swiper>

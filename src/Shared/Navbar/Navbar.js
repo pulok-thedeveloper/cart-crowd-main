@@ -1,4 +1,4 @@
-import React, { useContext, useState } from "react";
+import React, { useContext, useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import "./Navbar.css";
 import { FaRegHeart, FaRegUser } from "react-icons/fa";
@@ -9,11 +9,12 @@ import { AuthContext } from "../../Context/AuthProvider";
 import SearchModal from "./SearchModal/SearchModal";
 
 const Navbar = () => {
-  const { categories, menProducts, womenProducts, user, logOut } =
+  const { categories, menProducts, womenProducts, user, logOut, getStoredCart, allProducts} =
     useContext(AuthContext);
   const [searchModal, setSearchModal] = useState(false);
 
   const closeModal = () => setSearchModal(false);
+
 
   return (
     <div className="nav-bar grid grid-cols-4 px-16">

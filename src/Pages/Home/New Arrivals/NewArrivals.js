@@ -32,8 +32,8 @@ const NewArrivals = () => {
           modules={[Pagination, Navigation, Autoplay]}
         >
           {products?.map((product) => (
-            <SwiperSlide>
-              <ProductsCard key={product._id} product={product}></ProductsCard>
+            <SwiperSlide key={product._id} >
+              <ProductsCard product={product}></ProductsCard>
             </SwiperSlide>
           ))}
         </Swiper>

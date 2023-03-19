@@ -15,6 +15,7 @@ const AuthProvider = ({ children }) => {
   const [categories, setCategories] = useState();
   const [menProducts, setMenProducts] = useState();
   const [womenProducts, setWomenenProducts] = useState();
+  const [allProducts, setAllProducts] = useState();
   const [user, setUser] = useState(null);
   const [loading, setLoading] = useState(true);
 
@@ -77,6 +78,13 @@ const AuthProvider = ({ children }) => {
       });
   }, []);
 
+  useEffect(() => {
+    fetch("https://cart-crowd-server.vercel.app/shop")
+      .then((res) => res.json())
+      .then((data) => setAllProducts(data.data))
+      .catch((error) => console.log(error.message));
+  }, []);
+
 
   // use local storage to manage cart data
 const addToDb = (id , productQuantity) =>{
@@ -126,6 +134,29 @@ const deleteShoppingCart = () =>{
     localStorage.removeItem('shopping-cart');
 }
 
+const [cart, setCart] = useState();
+
+useEffect(() => {
+  const storedCart = getStoredCart();
+  const savedCart = [];
+  for (const id in storedCart) {
+    const addedProduct = allProducts?.find((product) => product._id === id);
+    if (addedProduct) {
+      const quantity = storedCart[id];
+      addedProduct.quantity = quantity;
+      savedCart.push(addedProduct);
+    }
+  }
+  setCart(savedCart);
+  console.log(savedCart);
+}, [allProducts, getStoredCart]);
+
+const handleCartDelete = (id) => {
+  removeFromDb(id);
+  const remaining = cart.filter((product) => product._id !== id);
+  setCart(remaining);
+};
+
 
   const authInfo = {
     categories,
@@ -143,7 +174,10 @@ const deleteShoppingCart = () =>{
     addToDb,
     getStoredCart,
     removeFromDb,
-    deleteShoppingCart
+    deleteShoppingCart,
+    allProducts,
+    cart,
+    handleCartDelete
   };
   return (
     <AuthContext.Provider value={authInfo}>{children}</AuthContext.Provider>

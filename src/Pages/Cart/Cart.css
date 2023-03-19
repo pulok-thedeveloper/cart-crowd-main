@@ -1,3 +1,13 @@
-.cart-title{
+.cart-title, .cart-total{
     background-color: rgba(17, 76, 95, 0.1);;
+}
+
+.cart-container{
+    min-height: calc(100vh - 140px);
+}
+
+.checkout-btn{
+    background-color: var(--oliveDrabe);
+    color: var(--nyanza);
+    letter-spacing: 0.1rem;
 }

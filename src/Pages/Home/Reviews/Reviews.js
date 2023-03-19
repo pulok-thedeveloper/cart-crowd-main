@@ -33,7 +33,7 @@ const Reviews = () => {
           modules={[Pagination, Navigation, Autoplay]}
           >
         {
-            reviews?.map(review => <SwiperSlide><ReviewCard key={review._id} review={review}></ReviewCard></SwiperSlide>)
+            reviews?.map(review => <SwiperSlide key={review._id} ><ReviewCard review={review}></ReviewCard></SwiperSlide>)
         }
         </Swiper>
       </div>
