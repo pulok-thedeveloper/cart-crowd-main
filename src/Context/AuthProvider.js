@@ -1,4 +1,4 @@
-import React, { createContext, useEffect, useState } from "react";
+import React, { createContext, useCallback, useEffect, useState } from "react";
 import app from "../firebase/firebase.config";
 import  {getAuth,
   createUserWithEmailAndPassword,
@@ -18,6 +18,8 @@ const AuthProvider = ({ children }) => {
   const [allProducts, setAllProducts] = useState();
   const [user, setUser] = useState(null);
   const [loading, setLoading] = useState(true);
+  const [cart, setCart] = useState([]);
+
 
   const googleProvider = new GoogleAuthProvider();
 
@@ -42,48 +44,48 @@ const AuthProvider = ({ children }) => {
   };
 
   useEffect(() => {
-    const unsubscribe = onAuthStateChanged(auth, (currentUser) => {
+    const unsubscribe = onAuthStateChanged(auth, currentUser => {
       setUser(currentUser);
       setLoading(false);
     });
     return () => {
-      return unsubscribe();
+       unsubscribe();
     };
   }, []);
 
-  useEffect(() => {
-    fetch("https://cart-crowd-server.vercel.app/categories")
-      .then((res) => res.json())
-      .then((data) => setCategories(data.data))
-      .catch((err) => {
-        console.log(err.message);
-      });
-  }, []);
+  // useEffect(() => {
+  //   fetch("https://cart-crowd-server.vercel.app/categories")
+  //     .then((res) => res.json())
+  //     .then((data) => setCategories(data.data))
+  //     .catch((err) => {
+  //       console.log(err.message);
+  //     });
+  // }, []);
 
-  useEffect(() => {
-    fetch("https://cart-crowd-server.vercel.app/categories/men")
-      .then((res) => res.json())
-      .then((data) => setMenProducts(data.data))
-      .catch((err) => {
-        console.log(err.message);
-      });
-  }, []);
+  // useEffect(() => {
+  //   fetch("https://cart-crowd-server.vercel.app/categories/men")
+  //     .then((res) => res.json())
+  //     .then((data) => setMenProducts(data.data))
+  //     .catch((err) => {
+  //       console.log(err.message);
+  //     });
+  // }, []);
 
-  useEffect(() => {
-    fetch("https://cart-crowd-server.vercel.app/categories/women")
-      .then((res) => res.json())
-      .then((data) => setWomenenProducts(data.data))
-      .catch((err) => {
-        console.log(err.message);
-      });
-  }, []);
+  // useEffect(() => {
+  //   fetch("https://cart-crowd-server.vercel.app/categories/women")
+  //     .then((res) => res.json())
+  //     .then((data) => setWomenenProducts(data.data))
+  //     .catch((err) => {
+  //       console.log(err.message);
+  //     });
+  // }, []);
 
-  useEffect(() => {
-    fetch("https://cart-crowd-server.vercel.app/shop")
-      .then((res) => res.json())
-      .then((data) => setAllProducts(data.data))
-      .catch((error) => console.log(error.message));
-  }, []);
+  // useEffect(() => {
+  //   fetch("https://cart-crowd-server.vercel.app/shop")
+  //     .then((res) => res.json())
+  //     .then((data) => setAllProducts(data.data))
+  //     .catch((error) => console.log(error.message));
+  // }, []);
 
 
   // use local storage to manage cart data
@@ -108,7 +110,8 @@ const addToDb = (id , productQuantity) =>{
     localStorage.setItem('shopping-cart', JSON.stringify(shoppingCart));
 }
 
-const getStoredCart = () =>{
+// eslint-disable-next-line react-hooks/exhaustive-deps
+const getStoredCart = useCallback(() =>{
     let shoppingCart = {};
 
     //get the shopping cart from local storage
@@ -117,7 +120,7 @@ const getStoredCart = () =>{
         shoppingCart = JSON.parse(storedCart);
     }
     return shoppingCart;
-}
+})
 
 const removeFromDb = id =>{
     const storedCart = localStorage.getItem('shopping-cart');
@@ -134,22 +137,20 @@ const deleteShoppingCart = () =>{
     localStorage.removeItem('shopping-cart');
 }
 
-const [cart, setCart] = useState();
 
-useEffect(() => {
-  const storedCart = getStoredCart();
-  const savedCart = [];
-  for (const id in storedCart) {
-    const addedProduct = allProducts?.find((product) => product._id === id);
-    if (addedProduct) {
-      const quantity = storedCart[id];
-      addedProduct.quantity = quantity;
-      savedCart.push(addedProduct);
-    }
-  }
-  setCart(savedCart);
-  console.log(savedCart);
-}, [allProducts, getStoredCart]);
+// useEffect(() => {
+//   const storedCart = getStoredCart();
+//   const savedCart = [];
+//   for (const id in storedCart) {
+//     const addedProduct = allProducts?.find((product) => product._id === id);
+//     if (addedProduct) {
+//       const quantity = storedCart[id];
+//       addedProduct.quantity = quantity;
+//       savedCart.push(addedProduct);
+//     }
+//   }
+//   setCart(savedCart);
+// }, [allProducts, cart, getStoredCart]);
 
 const handleCartDelete = (id) => {
   removeFromDb(id);

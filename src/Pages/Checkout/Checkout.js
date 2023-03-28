@@ -1,5 +1,15 @@
 import React from "react";
 import "./Checkout.css";
+import { loadStripe } from "@stripe/stripe-js";
+import { Elements } from "@stripe/react-stripe-js";
+import CheckoutForm from "./CheckoutForm/CheckoutForm";
+
+const stripePromise = loadStripe(process.env.REACT_APP_STRIPE_PK);
+console.log(stripePromise);
+
+const handleSubmit = e =>{
+  e.preventDefault();
+}
 
 const Checkout = () => {
   return (
@@ -8,7 +18,7 @@ const Checkout = () => {
         <h1 className="text-9xl font-semibold text-center">Checkout</h1>
       </div>
       <div className="p-16">
-        <form>
+        <form onSubmit={handleSubmit}>
           <div className="grid grid-cols-3 gap-5">
             <div className="flex flex-col form-control gap-2">
               <label>FULL NAME</label>
@@ -16,6 +26,7 @@ const Checkout = () => {
                 className="p-4"
                 type="text"
                 placeholder="Enter full name"
+                required
               />
             </div>
             <div className="flex flex-col form-control gap-2">
@@ -24,6 +35,7 @@ const Checkout = () => {
                 className="p-4"
                 type="email"
                 placeholder="Enter email address"
+                required
               />
             </div>
             <div className="flex flex-col form-control gap-2">
@@ -32,6 +44,7 @@ const Checkout = () => {
                 className="p-4"
                 type="text"
                 placeholder="Enter phone number"
+                required
               />
             </div>
             <div className="flex flex-col form-control gap-2 col-span-3">
@@ -40,6 +53,7 @@ const Checkout = () => {
                 className="p-4"
                 type="text"
                 placeholder="Enter present address"
+                required
               />
             </div>
             <div className="flex flex-col form-control gap-2 col-span-3">
@@ -50,10 +64,13 @@ const Checkout = () => {
               ></textarea>
             </div>
           </div>
-          <div className="form-control mt-5">
-            <input className="signup-btn p-3 w-72" type="submit" value="Place Order" />
-          </div>
         </form>
+          <div className="flex flex-col form-control gap-2 col-span-3">
+            <label>CARD DETAILS</label>
+            <Elements stripe={stripePromise}>
+              <CheckoutForm/>
+            </Elements>
+          </div>
       </div>
     </div>
   );

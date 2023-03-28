@@ -8,10 +8,10 @@ import UpNavHeading from '../Shared/UpNavHeading/UpNavHeading';
 const Main = () => {
     return (
         <div>
-            <UpNavHeading></UpNavHeading>
-            <Navbar></Navbar>
-            <Outlet></Outlet>
-            <Footer></Footer>
+            {/* <UpNavHeading></UpNavHeading> */}
+            {/* <Navbar></Navbar> */}
+            {/* <Outlet></Outlet> */}
+            {/* <Footer></Footer> */}
         </div>
     );
 };
