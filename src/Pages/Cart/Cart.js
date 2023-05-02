@@ -9,14 +9,15 @@ const Cart = () => {
   const { cart, handleCartDelete } = useContext(AuthContext);
   const shipping = 12;
 
-  const total = cart?.reduce((a, b) => a + b.price.disPrice * b.quantity, 0);
+  console.log(cart)
+  const total = cart?.reduce((a, product) => a + product.price.disPrice * product.quantity, 0);
 
   return (
     <div className="min-h-screen">
       <div className="cart-title h-64 grid items-center">
         <h1 className="text-9xl font-semibold text-center">Cart</h1>
       </div>
-      {cart ? (
+      {cart?.length > 0 ? (
         <div className="p-16 grid grid-cols-3 gap-16">
           <div className="col-span-2 grid gap-10">
             {cart?.map((product) => (

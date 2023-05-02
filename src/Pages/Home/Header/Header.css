@@ -1,20 +1,62 @@
-.header-container{
-    height: 100vh;
-}
-
-.slide-1{
-    background-color: #EBEAE0;
-}
-
-.slide-2, .slide-3{
-    background-size: cover;
-    background-position: right;
-}
-
 .slide h1{
     font-size: 7rem;
     line-height: 1.2;
 }
+
+.slide-3 h1{
+    font-size: 6.5rem;
+    line-height: 1.3;
+}
+
+.slide-3{
+    background: url('https://i.postimg.cc/MKB444Vj/banner-Covid.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.slide-2{
+    background: url('https://i.ibb.co/HVRjLQ7/7046077-1528.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.slide-1{
+    background: url('https://i.postimg.cc/VknX79B8/clothing-rack-with-floral-hawaiian-shirts-hangers-hat.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 768px) {
+    .slide h1{
+        font-size: 4rem;
+    }
+    /* .slide-3{
+        background:linear-gradient(90deg, rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.2)), url('https://i.postimg.cc/MKB444Vj/banner-Covid.jpg');
+        background-size: cover;
+        background-position: center;
+    } */
+}
+
+@media screen and (max-width: 640px) {
+    .slide-3{
+        background:linear-gradient(90deg, rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.2)), url('https://i.postimg.cc/MKB444Vj/banner-Covid.jpg');
+        background-size: cover;
+        background-position: center;
+    }
+    .slide-2{
+        background:linear-gradient(90deg, rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.2)), url('https://i.ibb.co/HVRjLQ7/7046077-1528.jpg');
+        background-size: cover;
+        background-position: center;
+    }
+    .slide-1{
+        background:linear-gradient(90deg, rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.2)), url('https://i.postimg.cc/VknX79B8/clothing-rack-with-floral-hawaiian-shirts-hangers-hat.jpg');
+        background-size: cover;
+        background-position: center;
+    }
+}
+
+
 .slide h4{
     font-size: 1.2rem;
     text-transform: uppercase;
@@ -36,17 +78,13 @@
 }
 
 .swiper-slide {
-
     /* Center slide text vertically */
     display: flex;
     justify-content: center;
     align-items: center;
   }
-  
-  /* .swiper-slide img {
-    display: block;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
+
+  .swiper-pagination-bullet-active{
+    border: 2px solid var(--oliveDrabe);
+    background-color: var(--nyanza);
   }
-   */

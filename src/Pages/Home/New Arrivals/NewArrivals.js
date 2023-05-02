@@ -18,13 +18,27 @@ const NewArrivals = () => {
       .catch((error) => console.log(error));
   }, []);
   return (
-    <div className="new-arrival text-center p-16">
+    <div className="new-arrival text-center p-8 md:p-16">
       <h1 className="mb-3 title">New Arrivals</h1>
       <p className="description">Creating a world of happy shoppers.</p>
       <div className="mt-16">
         <Swiper
           slidesPerView={5}
-          spaceBetween={30}
+          spaceBetween={10}
+          breakpoints={{
+            "@0.00": {
+            slidesPerView: 2,
+            spaceBetween: 10,
+          },
+          "@1.00": {
+            slidesPerView: 3,
+            spaceBetween: 20,
+          },
+          "@2.00": {
+            slidesPerView: 5,
+            spaceBetween: 20,
+          },
+        }}
           autoplay={{
             delay: 3000,
             disableOnInteraction: false,

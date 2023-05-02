@@ -21,9 +21,9 @@ const Products = () => {
     }, [category])
 
     return (
-        <div className='products-container p-16'>
+        <div className='products-container p-8 md:p-16'>
             <div className='products-header' style={{backgroundImage: `url(${catData?.image}})`}}>
-                <div className='products-header-details'>
+                <div className='products-header-details py-12 text-center'>
                     <div>
                         <h1>{category}</h1>
                         <p>Add to cart, whatever you want.</p>
@@ -31,10 +31,10 @@ const Products = () => {
                 </div>
             </div>
             <div className='grid grid-cols-12 pt-16'>
-                <div className='sidebar col-span-3'>
+                <div className='sidebar col-span-4 min-[480px]:col-span-3'>
 
                 </div>
-                <div className='products-cards-container col-span-9 grid grid-cols-4 gap-10'>
+                <div className='products-cards-container col-span-8 min-[480px]:col-span-9 grid min-[480px]:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-10'>
                 {
                     products?.map(product => <ProductsCard key={product._id} product={product}></ProductsCard>)
                 }

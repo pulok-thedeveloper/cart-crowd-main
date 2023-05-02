@@ -1,21 +1,38 @@
-import React from "react";
+import React, { useContext } from "react";
 import "./Wishlist.css";
 import { FaRegHeart } from "react-icons/fa";
+import { AuthContext } from "../../Context/AuthProvider";
+import WishProduct from "./WishProduct/WishProduct";
 
 const Wishlist = () => {
+  const { wishlist, handleWishDelete } = useContext(AuthContext);
   return (
-    <div className="min-h-screen grid grid-rows-3 items-center">
-      <div className="cart-title row-span-1 h-full grid items-center">
+    <div className="min-h-screen">
+      <div className="cart-title h-64 grid items-center">
         <h1 className="text-9xl font-semibold text-center">Wishlist</h1>
       </div>
-      <div className="row-span-2">
-        <div className="grid justify-items-center items-center gap-10">
-          <FaRegHeart className="text-9xl" />
-          <h1 className="text-4xl font-semibold">
-            No products added to the wishlist
-          </h1>
+      {wishlist?.length > 0 ? (
+        <div className="p-16 gap-16">
+          <div className="grid gap-10">
+            {wishlist?.map((product) => (
+              <WishProduct
+                key={product?._id}
+                product={product}
+                handleWishDelete={handleWishDelete}
+              ></WishProduct>
+            ))}
+          </div>
         </div>
-      </div>
+      ) : (
+        <div className="grid justify-center items-center cart-container">
+          <div className="text-center flex flex-col gap-10 justify-center items-center">
+            <FaRegHeart className="text-9xl" />
+            <h1 className="text-4xl font-semibold">
+              No products added to the wishlist
+            </h1>
+          </div>
+        </div>
+      )}
     </div>
   );
 };

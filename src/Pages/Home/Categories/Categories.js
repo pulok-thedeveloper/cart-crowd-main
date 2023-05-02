@@ -13,10 +13,10 @@ const Categories = () => {
   }, []);
 
   return (
-    <div className="category-section px-16 py-20 text-center">
+    <div className="category-section p-8 md:px-16 py-20 text-center">
       <h3 className="title mb-5">Browse by Category</h3>
       <p className="description">Your shopping companion for life.</p>
-      <div className="grid grid-cols-8 justify-center justify-items-center gap-10 mt-16">
+      <div className="grid grid-cols-4 md:grid-cols-8 justify-center justify-items-center gap-6 md:gap-10 mt-16">
         {categories?.map((category) => (
           <div key={category._id}>
             <Link className="category-item inline-block rounded-full p-10 bg-white" to={`/shop/${category.name}`}>

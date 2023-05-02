@@ -5,8 +5,8 @@ import { BsArrowRight } from 'react-icons/bs';
 
 const Trendings = () => {
     return (
-        <div className='trendings-container grid grid-cols-2 p-16 gap-16 min-h-screen'>
-            <div className='trend relative p-16'>
+        <div className='trendings-container grid sm:grid-cols-2 p-8 md:p-16 gap-16 md:min-h-screen'>
+            <div className='trend sm:h-auto relative p-16'>
                 <div>
                     <h4>New Season</h4>
                     <h1>Big patterns are back in fashion</h1>

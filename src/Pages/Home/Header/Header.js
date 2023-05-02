@@ -8,7 +8,7 @@ import { Link } from "react-router-dom";
 import { BsArrowRight } from "react-icons/bs";
 const Header = () => {
   return (
-    <div className="header-container w-full p-16">
+    <div className="header-container w-full sm:p-16">
       <Swiper
         centeredSlides={true}
         autoplay={{
@@ -23,8 +23,8 @@ const Header = () => {
         className="mySwiper"
       >
       <SwiperSlide>
-          <div className="slide slide-3 w-full h-full px-32 grid grid-cols-3 items-center" style={{ backgroundImage: `url("https://i.postimg.cc/MKB444Vj/banner-Covid.jpg")` }}>
-            <div className="text-left">
+          <div className="slide slide-3 w-full h-full px-12 sm:px-32 grid sm:grid-cols-2 items-center">
+            <div className="text-left py-24">
               <h4>Innovative Electronics</h4>
               <h1>Shop Our Extensive Electronics Collection</h1>
               <Link className="mt-5 flex items-center gap-3" to="/shop">
@@ -34,8 +34,8 @@ const Header = () => {
           </div>
         </SwiperSlide>
         <SwiperSlide>
-          <div className="slide slide-2 w-full h-full px-32 grid grid-cols-2 items-center" style={{ backgroundImage: `url("https://i.ibb.co/HVRjLQ7/7046077-1528.jpg")` }}>
-            <div className="text-left">
+          <div className="slide slide-2 w-full h-full px-12 sm:px-32 grid sm:grid-cols-2 items-center">
+            <div className="text-left py-24">
               <h4>Crafting Comfort</h4>
               <h1>Discover Your Perfect Piece of Furniture</h1>
               <Link className="mt-5 flex items-center gap-3" to="/shop">
@@ -45,16 +45,13 @@ const Header = () => {
           </div>
         </SwiperSlide>
         <SwiperSlide>
-          <div className="slide slide-1 w-full h-full px-32 grid grid-cols-2 items-center">
-            <div className="text-left">
+          <div className="slide slide-1 w-full h-full px-12 sm:px-32 grid sm:grid-cols-2 items-center">
+            <div className="text-left py-24">
               <h4>Unleash Your Style</h4>
-              <h1>Shop Our Clothing and Feel Confident in Your Style</h1>
+              <h1>Shop Our Clothing and Feel Confident</h1>
               <Link className="mt-5 flex items-center gap-3" to="/shop">
                 Shop Now <BsArrowRight />
               </Link>
-            </div>
-            <div>
-              <img className="w-full" src="https://i.ibb.co/yFrTCcF/Clothing-items.png" alt="" />
             </div>
           </div>
         </SwiperSlide>

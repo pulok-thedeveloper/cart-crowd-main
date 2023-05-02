@@ -19,8 +19,26 @@
     z-index: -1;
 }
 
+@media screen and (max-width: 1024px) {
+    .review-card .review::before{
+        width: 80px;
+        height: 100px;
+        bottom: -30px;
+        left: 80px;
+    }
+  }
+  
+@media screen and (max-width: 640px) {
+    .review-card .review::before{
+        width: 50px;
+        height: 60px;
+        bottom: -20px;
+        left: 40px;
+    }
+}
+
 .author-image{
-    box-shadow: rgba(0, 0, 0, 0.4) 2px 5px 10px;
+    box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 5px;
 }
 
 .author-name{

@@ -2,6 +2,10 @@
     font-size: 1.2rem;
 }
 
+.product-slider .swiper-slide{
+    align-items: flex-start;
+}
+
 .product-title{
     font-size: 3.5rem;
 }
@@ -49,15 +53,24 @@
 
 .quantity{
     width: 120px;
-    height: 50px;
     border: 1px solid #a1a1a191;
     font-size: 1.6rem;
     font-weight: 500;
 }
 
+@media screen and (max-width: 400px) {
+    .quantity{
+        width: 100px;
+    }
+}
+
+@media screen and (max-width: 300px) {
+    .quantity{
+        width: 80px;
+    }
+}
+
 .add-to-cart{
-    width: 300px;
-    height: 50px;
     background-color: #000;
     color: var(--nyanza);
     font-size: 1.6rem;

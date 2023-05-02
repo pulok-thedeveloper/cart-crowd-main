@@ -7,7 +7,7 @@ import s04 from '../../../Assests/Images/Specialty/S04.png';
 
 const Speciality = () => {
     return (
-        <div className='specialty-container w-full px-16 py-12 grid grid-cols-4'>
+        <div className='specialty-container w-full px-8 md:px-16 gap-10 py-12 grid grid-cols-2 sm:grid-cols-4'>
             <div className='spec'>
                 <div><img src={s01} alt='' /></div>
                 <div className='spec-detail'>

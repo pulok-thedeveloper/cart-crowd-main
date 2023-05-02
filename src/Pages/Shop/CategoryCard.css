@@ -1,17 +1,26 @@
-.category-card{
-    height: 270px;
+.category-card {
+  height: 270px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.category-title {
+  background-color: var(--nyanza);
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.category-card:hover .category-title {
+  background-color: #000000;
+  color: var(--nyanza);
+}
+
+@media (max-width: 480px) {
+  .category-card {
+    height: 170px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-}
-
-.category-title{
-    background-color: var(--nyanza);
-    font-size: 1.5rem;
-    font-weight: 500;
-}
-
-.category-card:hover .category-title{
-    background-color: #000000;
-    color: var(--nyanza);
+  }
 }

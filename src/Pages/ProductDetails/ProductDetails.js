@@ -47,7 +47,13 @@ const ProductDetails = () => {
 
 
   const handleAddToCart = (id, quantity) =>{
-    addToDb(id, quantity);
+    const location = "cart"
+    addToDb(id, quantity, location);
+  }
+
+  const handleAddToWishlist = (id, quantity) =>{
+    const location = "wishlist"
+    addToDb(id, quantity, location);
   }
 
   useEffect(() => {
@@ -59,7 +65,7 @@ const ProductDetails = () => {
       .catch((error) => console.log(error));
   }, [id]);
   return (
-    <div className="p-16">
+    <div className="p-8 md:p-16">
       <nav className="mb-10">
         <ol className="breadcrumb flex gap-2">
           <li className="breadcrumb-item">
@@ -85,7 +91,7 @@ const ProductDetails = () => {
         </ol>
       </nav>
       <div className="grid grid-cols-12 text-left gap-14">
-        <div className="col-span-5">
+        <div className="col-span-12 sm:col-span-5 product-slider">
           <Swiper
             style={{
               "--swiper-navigation-color": "#fff",
@@ -104,7 +110,7 @@ const ProductDetails = () => {
             ))}
           </Swiper>
         </div>
-        <div className="col-span-7">
+        <div className="col-span-12 sm:col-span-7">
           <h1 className="product-title mb-5">{product?.title}</h1>
           <div className="product-detail-price mb-10">
             {product?.price?.general !== product?.price?.disPrice ? (
@@ -133,7 +139,7 @@ const ProductDetails = () => {
 
           <div className="product-sizes mb-10">
             <p className="mb-5">Size: {product?.sizes[pSize]}</p>
-            <ul className="product-size-list flex gap-5">
+            <ul className="product-size-list flex flex-wrap gap-5">
               {product?.sizes?.map((size, index) => (
                 <li
                   key={index}
@@ -156,8 +162,8 @@ const ProductDetails = () => {
             )}
           </div>
 
-          <div className="flex gap-5 mb-10">
-            <div className="quantity flex px-4 justify-between items-center">
+          <div className="fixed max-[640px]:bottom-0 max-[640px]:left-0 max-[640px]:px-10 max-[640px]:py-5 max-[640px]:z-30 max-[640px]:bg-white w-full sm:static flex gap-5 sm:mb-10">
+            <div className="quantity py-7 px-4 flex justify-between items-center">
               <span
                 onClick={handleDecrease}
                 className="decrease cursor-pointer"
@@ -173,13 +179,13 @@ const ProductDetails = () => {
               </span>
             </div>
             <div>
-              <button onClick={()=>handleAddToCart(id, quantity)} className="add-to-cart">Add to cart</button>
+              <button onClick={()=>handleAddToCart(id, quantity)} className="add-to-cart px-28 py-7 sm:px-40">Add to cart</button>
             </div>
           </div>
           <div className="flex mb-10">
-            <p className="flex justify-center items-center cursor-pointer add-to-wishlist gap-2">
+            <button onClick={()=>handleAddToWishlist(id, quantity)} className="flex justify-center items-center cursor-pointer add-to-wishlist gap-2">
               <FaRegHeart className="text-3xl" /> Add to Wishlist
-            </p>
+            </button>
           </div>
           <hr className="mb-10" />
           <div>

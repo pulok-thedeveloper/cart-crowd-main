@@ -2,6 +2,7 @@ import React from "react";
 import { RxCross2 } from "react-icons/rx";
 const CartProduct = ({ product, handleCartDelete}) => {
   const subtotal = product.quantity * product.price.disPrice;
+  console.log(product)
 
   return (
     <div className="grid grid-cols-4 items-center justify-between">

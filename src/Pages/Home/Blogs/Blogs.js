@@ -23,6 +23,16 @@ const Blogs = () => {
         <Swiper
           slidesPerView={3}
           spaceBetween={30}
+          breakpoints={{
+            "@0.00": {
+            slidesPerView: 2,
+            spaceBetween: 10,
+          },
+          "@2.00": {
+            slidesPerView: 3,
+            spaceBetween: 20,
+          },
+        }}
           autoplay={{
             delay: 3000,
             disableOnInteraction: false,

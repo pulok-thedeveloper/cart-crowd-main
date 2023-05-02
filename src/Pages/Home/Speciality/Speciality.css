@@ -1,13 +1,27 @@
 .spec{
     display: flex;
     align-items: center;
-    margin: 0 28px;
 }
 
 .spec img{
     width: 50px;
-    margin-right: 30px;
+    margin-right: 2.5rem;
 }
+
+  
+  @media screen and (max-width: 1024px) {
+    .spec img{
+        width: 40px;
+        margin-right: 2.5rem;
+    }
+  }
+  
+  @media screen and (max-width: 640px) {
+    .spec img{
+        width: 30px;
+        margin-right: 2.5rem;
+    }
+  }
 
 .spec-detail{
     text-align: left;

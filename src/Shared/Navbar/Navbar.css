@@ -1,11 +1,16 @@
 .nav-bar{
-    height: 12vh;
     border-bottom: 1px solid var(--sage);
 }
 
 .logo-title{
     font-size: 4rem;
     font-weight: 600;
+}
+
+@media screen and (max-width: 768px) {
+.logo-title{
+    font-size: 3rem;
+  }
 }
 
 .nav-menu{
@@ -35,4 +40,28 @@
 .dropdown-menu ul{
     font-size: 1.4rem;
     font-weight: 400;
+}
+
+.mobile-nav-wrapper{
+    background-color: rgba(0, 0, 0, 0.2);
+    
+}
+
+.mobile-nav{
+    background-color: var(--nyanza);
+    /* animation: slide 0.3s linear; */
+    transition: 0.5s;
+}
+
+.mobile-nav-active{
+    left: 0;
+}
+
+@keyframes slide {
+    0%{
+        left: -100%;
+    }
+    100%{
+        left: 0%;
+    }
 }

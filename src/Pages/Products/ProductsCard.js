@@ -7,6 +7,7 @@ import { FiShoppingCart } from "react-icons/fi";
 const ProductsCard = ({ product }) => {
   const navigate = useNavigate();
 
+
   const handleNavigate = (id) => {
     navigate(`/product/${product.title}/${product._id}`);
   };
@@ -45,8 +46,8 @@ const ProductsCard = ({ product }) => {
         </p>
       )}
       <ul className="product-card-icons absolute p-5 grid gap-5">
-        <li className="product-card-icon"><FaRegHeart /></li>
-        <li className="product-card-icon"><FiShoppingCart/></li>
+        <li onClick={() => handleNavigate(product._id)} className="product-card-icon"><FaRegHeart /></li>
+        <li onClick={() => handleNavigate(product._id)} className="product-card-icon"><FiShoppingCart/></li>
       </ul>
     </div>
   );

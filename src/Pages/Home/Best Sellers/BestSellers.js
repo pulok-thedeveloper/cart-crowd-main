@@ -18,13 +18,27 @@ const BestSellers = () => {
       .catch((error) => console.log(error));
   }, []);
   return (
-    <div className="best-sellers text-center p-16">
+    <div className="best-sellers text-center p-8 md:p-16">
       <h1 className="mb-3 title">Best Sellers</h1>
       <p className="description">Bringing you the best deals every day.</p>
       <div className="mt-16">
         <Swiper
           slidesPerView={5}
           spaceBetween={30}
+          breakpoints={{
+            "@0.00": {
+            slidesPerView: 2,
+            spaceBetween: 10,
+          },
+          "@1.00": {
+            slidesPerView: 3,
+            spaceBetween: 20,
+          },
+          "@2.00": {
+            slidesPerView: 5,
+            spaceBetween: 20,
+          },
+        }}
           autoplay={{
             delay: 3500,
             disableOnInteraction: false,
