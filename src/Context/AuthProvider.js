@@ -9,6 +9,7 @@ import {
   signInWithPopup,
   signOut,
 } from "firebase/auth";
+import { toast } from "react-hot-toast";
 export const AuthContext = createContext();
 const auth = getAuth(app);
 
@@ -86,7 +87,7 @@ const AuthProvider = ({ children }) => {
       .then((res) => res.json())
       .then((data) => setAllProducts(data.data))
       .catch((error) => console.log(error.message));
-  }, []);
+  }, [allProducts]);
 
   // use local storage to manage cart data
   const addToDb = (id, productQuantity, location) => {
@@ -108,6 +109,7 @@ const AuthProvider = ({ children }) => {
         shoppingCart[id] = productQuantity;
       }
       localStorage.setItem("shopping-cart", JSON.stringify(shoppingCart));
+      toast.success("The product has been added to the cart.")
     } else if (location === "wishlist") {
       let wishlist = {};
 
@@ -120,6 +122,7 @@ const AuthProvider = ({ children }) => {
       wishlist[id] = productQuantity;
 
       localStorage.setItem("wishlist", JSON.stringify(wishlist));
+      toast.success("The product has been added to the wishlist.")
     }
   };
 
@@ -185,7 +188,6 @@ const AuthProvider = ({ children }) => {
       const quantity = storedCart[id];
       addedProduct.quantity = quantity;
       savedCart.push(addedProduct);
-      console.log(savedCart);
     }
   }
   setCart(savedCart);

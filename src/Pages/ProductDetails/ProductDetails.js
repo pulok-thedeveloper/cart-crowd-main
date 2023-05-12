@@ -8,6 +8,7 @@ import { FaRegHeart } from "react-icons/fa";
 import ReactStars from "react-rating-stars-component";
 import { useForm } from "react-hook-form";
 import { AuthContext } from "../../Context/AuthProvider";
+import SimilarProducts from "./SimilarProducts/SimilarProducts";
 
 const ProductDetails = () => {
   const router = useParams();
@@ -243,6 +244,7 @@ const ProductDetails = () => {
           )}
         </div>
       </div>
+      <SimilarProducts mainProduct={product}></SimilarProducts>
     </div>
   );
 };

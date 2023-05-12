@@ -29,7 +29,7 @@ const Checkout = () => {
       <div className="p-16">
           <div className="">
             <Elements stripe={stripePromise}>
-              <CheckoutForm grandTotal={grandTotal}/>
+              <CheckoutForm cart={cart} grandTotal={grandTotal}/>
             </Elements>
           </div>
       </div>

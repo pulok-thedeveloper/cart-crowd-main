@@ -18,7 +18,7 @@ const Navbar = () => {
   const [mobileNav, setMobileNav] = useState(false);
 
   return (
-    <div className="nav-bar flex gap-10 min[400px]:grid grid-cols-3 md:grid-cols-4 sm:grid-cols-5 px-16 py-5 items-center justify-between">
+    <div className="nav-bar sticky top-0 bg-secondary z-50 shadow-sm flex gap-10 min[400px]:grid grid-cols-3 md:grid-cols-4 sm:grid-cols-5 px-16 py-5 items-center justify-between">
       <div className="block sm:hidden">
         <HiBars3BottomLeft
           onClick={() => setMobileNav(!mobileNav)}

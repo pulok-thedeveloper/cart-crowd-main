@@ -1,7 +1,7 @@
 import React from "react";
 import { RxCross2 } from "react-icons/rx";
 const CartProduct = ({ product, handleCartDelete}) => {
-  const subtotal = product.quantity * product.price.disPrice;
+  const subtotal = (product.quantity * product.price.disPrice).toFixed(2);
   console.log(product)
 
   return (

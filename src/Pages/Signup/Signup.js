@@ -58,6 +58,7 @@ const Signup = () => {
                 <input
                   className="w-96 p-4"
                   type="text"
+                  name="name"
                   placeholder="Enter full name"
                 />
               </div>
@@ -66,6 +67,7 @@ const Signup = () => {
                 <input
                   className="w-96 p-4"
                   type="email"
+                  name="email"
                   placeholder="Enter email address"
                 />
               </div>
@@ -74,6 +76,7 @@ const Signup = () => {
                 <input
                   className="w-96 p-4"
                   type="password"
+                  name="password"
                   placeholder="Enter a strong password"
                 />
               </div>

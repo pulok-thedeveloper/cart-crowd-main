@@ -60,6 +60,7 @@ const Login = () => {
                 <label>Email</label>
                 <input
                   className="w-96 p-4"
+                  name="email"
                   type="email"
                   placeholder="Enter email address"
                 />
@@ -69,6 +70,7 @@ const Login = () => {
                 <input
                   className="w-96 p-4"
                   type="password"
+                  name="password"
                   placeholder="Enter a strong password"
                 />
               </div>

@@ -1,0 +1,4 @@
+.sidebar-list .active{
+    background-color: #EBF0FF;
+    color: var(--oliveDrabe);
+}

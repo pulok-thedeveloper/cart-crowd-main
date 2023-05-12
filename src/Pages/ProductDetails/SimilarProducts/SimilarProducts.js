@@ -1,25 +1,24 @@
 import React, { useEffect, useState } from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import ProductsCard from "../../Products/ProductsCard";
-import "./NewArrivals.css";
 import "swiper/css";
 import "swiper/css/pagination";
 import { Autoplay, Navigation, Pagination } from "swiper";
 
-const NewArrivals = () => {
+const SimilarProducts = ({mainProduct}) => {
   const [products, setProducts] = useState();
 
   useEffect(() => {
-    fetch("https://cart-crowd-server.vercel.app/shop/New%20Arrivals")
+    fetch(`https://cart-crowd-server.vercel.app/shop/${mainProduct?.categories[0]}`)
       .then((res) => res.json())
       .then((data) => {
         setProducts(data.data);
       })
       .catch((error) => console.log(error));
-  }, []);
+  }, [mainProduct?.categories]);
   return (
     <div className="new-arrival text-center p-8 md:p-16">
-      <h1 className="mb-3 title text-[4rem]">New Arrivals</h1>
+      <h1 className="mb-3 title text-[4rem]">Similar Products</h1>
       <p className="description">Creating a world of happy shoppers.</p>
       <div className="mt-16">
         <Swiper
@@ -45,7 +44,9 @@ const NewArrivals = () => {
           }}
           modules={[Pagination, Navigation, Autoplay]}
         >
-          {products?.map((product) => (
+          {products?.filter((product) => {
+            return product._id !== mainProduct?._id
+          }).map((product) => (
             <SwiperSlide key={product._id} >
               <ProductsCard product={product}></ProductsCard>
             </SwiperSlide>
@@ -56,4 +57,4 @@ const NewArrivals = () => {
   );
 };
 
-export default NewArrivals;
+export default SimilarProducts;

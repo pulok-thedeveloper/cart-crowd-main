@@ -11,6 +11,15 @@ import WomenProducts from "../Pages/Products/WomenProducts";
 import Shop from "../Pages/Shop/Shop";
 import Signup from "../Pages/Signup/Signup";
 import Wishlist from "../Pages/Wishlist/Wishlist";
+import AdminLogin from "../Pages/AdminLogin/AdminLogin";
+import Dashboard from "../Layout/Dashboard/Dashboard";
+import Orders from "../Pages/Dashboard/Orders/Orders";
+import DashboardProducts from "../Pages/Dashboard/DashboardProducts/DashboardProducts";
+import DashboardHome from "../Pages/Dashboard/DashboardHome/DashboardHome";
+import PrivateRoute from "./PrivateRoute";
+import AdminRoute from "./AdminRoute";
+import AddProduct from "../Pages/Dashboard/AddProduct/AddProduct";
+import EditProduct from "../Pages/Dashboard/EditProduct/EditProduct";
 
 export const routes = createBrowserRouter([
     {
@@ -43,15 +52,15 @@ export const routes = createBrowserRouter([
             },
             {
                 path: '/cart',
-                element: <Cart></Cart>
+                element: <PrivateRoute><Cart></Cart></PrivateRoute>
             },
             {
                 path: '/wishlist',
-                element: <Wishlist></Wishlist>
+                element: <PrivateRoute><Wishlist></Wishlist></PrivateRoute>
             },
             {
                 path: '/checkout',
-                element: <Checkout></Checkout>
+                element: <PrivateRoute><Checkout></Checkout></PrivateRoute>
             }
         ]
     },
@@ -63,4 +72,34 @@ export const routes = createBrowserRouter([
         path: '/login',
         element: <Login></Login>
     },
+    {
+        path: '/admin-login',
+        element: <AdminLogin></AdminLogin>
+    },
+    {
+        path: '/dashboard',
+        element: <AdminRoute><Dashboard></Dashboard></AdminRoute>,
+        children: [
+            {
+                path: '/dashboard',
+                element: <DashboardHome></DashboardHome>
+            },
+            {
+                path: '/dashboard/products',
+                element: <DashboardProducts></DashboardProducts>
+            },
+            {
+                path: '/dashboard/orders',
+                element: <Orders></Orders>
+            },
+            {
+                path: '/dashboard/add-product',
+                element: <AddProduct></AddProduct>
+            },
+            {
+                path: '/dashboard/edit-product/:id',
+                element: <EditProduct></EditProduct>
+            },
+        ]
+    }
 ])
